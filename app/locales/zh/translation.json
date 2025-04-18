@@ -1,0 +1,71 @@
+{
+  "navbar": {
+    "title": "數學",
+    "byYear": "按年份",
+    "byTopic": "按主題",
+    "exerciseGenerator": "製作練習",
+    "settings": {
+      "showMetadata": "顯示題目資料",
+      "showPercent": "顯示百分比 (%)",
+      "showAnswer": "顯示答案"
+    }
+  },
+  "error": {
+    "unexpected": {
+      "title": "哎呀！",
+      "details": "發生了意外錯誤。"
+    },
+    "404": {
+      "title": "404 找不到頁面",
+      "details": "找不到請求的頁面。"
+    },
+    "generic": {
+      "title": "錯誤",
+      "details": "發生錯誤。"
+    }
+  },
+  "settings": {
+    "language": {
+      "title": "語言",
+      "english": "英文",
+      "chinese": "中文"
+    }
+  },
+  "pages": {
+    "byYear": {
+      "title": "按年份瀏覽",
+      "selectLabel": "選擇年份",
+      "allYearsOption": "所有年份",
+      "showingResultsFor": "{{year}} 年",
+      "noResults": "找不到 {{year}} 年的題目。",
+      "selectYearPrompt": "請選擇年份以查看題目。"
+    },
+    "byTopic": {
+      "title": "按主題瀏覽"
+    },
+    "exerciseGenerator": {
+      "title": "製作練習",
+      "form": {
+        "titleLabel": "標題",
+        "instructionsLabel": "加入指示",
+        "topicsLabel": "主題",
+        "yearsLabel": "年份",
+        "settingsLabel": "顯示設定",
+        "previewButton": "預覽題目",
+        "sortByLabel": "題目排序方式：",
+        "sortByYearQnum": "年份及題號",
+        "sortByHkPercent": "難度 (香港答對率)"
+      },
+      "previewTitle": "預覽",
+      "resultsTitle": "已選題目",
+      "noResults": "找不到符合條件的題目。",
+      "selectCriteriaPrompt": "請選擇主題和年份以顯示題目。",
+      "warnings": {
+        "noTopicSelected": "請選擇至少一個主題。"
+      }
+    }
+  },
+  "common": {
+    "noResultsFound": "找不到結果。"
+  }
+}

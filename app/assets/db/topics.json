@@ -1,0 +1,373 @@
+[
+  {
+    "tId": 101,
+    "tTitleE": "Laws of indices",
+    "tTitleC": "指數定律",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 102,
+    "tTitleE": "Factoriztion / Expansion",
+    "tTitleC": "因式分解 / 展開",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 103,
+    "tTitleE": "Change of subjects",
+    "tTitleC": "主項變換",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 104,
+    "tTitleE": "Identites",
+    "tTitleC": "恆等式",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 105,
+    "tTitleE": "Simutaneous Equations",
+    "tTitleC": "聯立方程",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 106,
+    "tTitleE": "Percentage",
+    "tTitleC": "百分數",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 107,
+    "tTitleE": "Ratio",
+    "tTitleC": "比",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 108,
+    "tTitleE": "Rate",
+    "tTitleC": "率",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 109,
+    "tTitleE": "Sequence (Junior Forms)",
+    "tTitleC": "數列（初中）",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 110,
+    "tTitleE": "Approximation and Error",
+    "tTitleC": "近似值與誤差",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 111,
+    "tTitleE": "Pythagorous' Theorem",
+    "tTitleC": "畢氏定理",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 112,
+    "tTitleE": "Sector",
+    "tTitleC": "扇形",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 113,
+    "tTitleE": "Trigonometry (Junior Forms)",
+    "tTitleC": "三角學（初中）",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 114,
+    "tTitleE": "Polygon",
+    "tTitleC": "多邊形",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 115,
+    "tTitleE": "Coordinate Geometry (Junior Forms)",
+    "tTitleC": "坐標幾何（初中）",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 116,
+    "tTitleE": "Probabilties (Junior Forms)",
+    "tTitleC": "概率（初中）",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 117,
+    "tTitleE": "Measures of Central Tendencies",
+    "tTitleC": "集中趨勢的量度",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 118,
+    "tTitleE": "Similar Triangles / Triangles of Same Heights",
+    "tTitleC": "相似 / 同高三角形",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 119,
+    "tTitleE": "Mensuration of 3D Figures",
+    "tTitleC": "立體圖形的度量",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 120,
+    "tTitleE": "Position Notation",
+    "tTitleC": "進制",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 121,
+    "tTitleE": "Parallel Lines",
+    "tTitleC": "平行線",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 122,
+    "tTitleE": "Symmetry",
+    "tTitleC": "對稱",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 123,
+    "tTitleE": "Plane Geometry",
+    "tTitleC": "平面幾何",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 124,
+    "tTitleE": "Algebraic Fractions",
+    "tTitleC": "代數分式",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 125,
+    "tTitleE": "LCM / HCF of Expressions",
+    "tTitleC": "表達式的最小公倍數 / 最大公因數",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 126,
+    "tTitleE": "Centres of Triangles",
+    "tTitleC": "三角形的中心",
+    "isJunior": true,
+    "mia_e2": null
+  },
+  {
+    "tId": 201,
+    "tTitleE": "Quadratic Equations",
+    "tTitleC": "二次方程",
+    "isJunior": false,
+    "mia_e2": 402
+  },
+  {
+    "tId": 202,
+    "tTitleE": "Complex Number",
+    "tTitleC": "複數",
+    "isJunior": false,
+    "mia_e2": 402
+  },
+  {
+    "tId": 203,
+    "tTitleE": "Nature of Roots of Quadratic Equations",
+    "tTitleC": "二次方程的根的性質",
+    "isJunior": false,
+    "mia_e2": 402
+  },
+  {
+    "tId": 204,
+    "tTitleE": "Quadratic Graphs",
+    "tTitleC": "二次函數圖像",
+    "isJunior": false,
+    "mia_e2": 403
+  },
+  {
+    "tId": 205,
+    "tTitleE": "Function",
+    "tTitleC": "函數",
+    "isJunior": false,
+    "mia_e2": 403
+  },
+  {
+    "tId": 206,
+    "tTitleE": "Equations of Straight Lines",
+    "tTitleC": "直線方程",
+    "isJunior": false,
+    "mia_e2": 404
+  },
+  {
+    "tId": 207,
+    "tTitleE": "Transformation of Axis",
+    "tTitleC": "坐標軸變換",
+    "isJunior": false,
+    "mia_e2": 404
+  },
+  {
+    "tId": 208,
+    "tTitleE": "Factor Theorem / Remainder Theorem",
+    "tTitleC": "因式定理 / 餘式定理",
+    "isJunior": false,
+    "mia_e2": 405
+  },
+  {
+    "tId": 209,
+    "tTitleE": "Logarithmic Transformation",
+    "tTitleC": "對數變換",
+    "isJunior": false,
+    "mia_e2": 407
+  },
+  {
+    "tId": 210,
+    "tTitleE": "Exponential / Logarithmic Functions",
+    "tTitleC": "指數函數 / 對數函數",
+    "isJunior": false,
+    "mia_e2": 407
+  },
+  {
+    "tId": 211,
+    "tTitleE": "Variation",
+    "tTitleC": "變分",
+    "isJunior": false,
+    "mia_e2": 409
+  },
+  {
+    "tId": 212,
+    "tTitleE": "Trigonometry + Algebra",
+    "tTitleC": "三角學 + 代數",
+    "isJunior": false,
+    "mia_e2": 410
+  },
+  {
+    "tId": 213,
+    "tTitleE": "Properties of Circles / Tangents",
+    "tTitleC": "圓的性質/切線",
+    "isJunior": false,
+    "mia_e2": 502
+  },
+  {
+    "tId": 214,
+    "tTitleE": "Linear Inequalities",
+    "tTitleC": "線性不等式",
+    "isJunior": false,
+    "mia_e2": 503
+  },
+  {
+    "tId": 215,
+    "tTitleE": "Linear Programming",
+    "tTitleC": "線性規劃",
+    "isJunior": false,
+    "mia_e2": 504
+  },
+  {
+    "tId": 216,
+    "tTitleE": "Trigonometry of 2D Figures",
+    "tTitleC": "二維圖形的三角學",
+    "isJunior": false,
+    "mia_e2": 505
+  },
+  {
+    "tId": 217,
+    "tTitleE": "Trigonometry of 3D Figures",
+    "tTitleC": "三維圖形的三角學",
+    "isJunior": false,
+    "mia_e2": 506
+  },
+  {
+    "tId": 218,
+    "tTitleE": "Equations of Circles",
+    "tTitleC": "圓的方程",
+    "isJunior": false,
+    "mia_e2": 507
+  },
+  {
+    "tId": 219,
+    "tTitleE": "Locus",
+    "tTitleC": "軌跡",
+    "isJunior": false,
+    "mia_e2": 508
+  },
+  {
+    "tId": 220,
+    "tTitleE": "Measures of Dispersions",
+    "tTitleC": "離差的量度",
+    "isJunior": false,
+    "mia_e2": 509
+  },
+  {
+    "tId": 221,
+    "tTitleE": "Statistical Diagrams",
+    "tTitleC": "統計圖表",
+    "isJunior": false,
+    "mia_e2": 509
+  },
+  {
+    "tId": 222,
+    "tTitleE": "Effects on Changes of Distribution",
+    "tTitleC": "分布改變的影響",
+    "isJunior": false,
+    "mia_e2": 509
+  },
+  {
+    "tId": 223,
+    "tTitleE": "Permutation and Combination",
+    "tTitleC": "排列與組合",
+    "isJunior": false,
+    "mia_e2": 510
+  },
+  {
+    "tId": 224,
+    "tTitleE": "Probabilties (Senior Forms)",
+    "tTitleC": "概率（高中）",
+    "isJunior": false,
+    "mia_e2": 511
+  },
+  {
+    "tId": 225,
+    "tTitleE": "Arithmetic Sequence / Geometric Sequence",
+    "tTitleC": "等差數列 / 等比數列",
+    "isJunior": false,
+    "mia_e2": 602
+  },
+  {
+    "tId": 226,
+    "tTitleE": "Transformation of Function",
+    "tTitleC": "函數變換",
+    "isJunior": false,
+    "mia_e2": 604
+  },
+  {
+    "tId": 227,
+    "tTitleE": "Discriminant Δ",
+    "tTitleC": "判別式 Δ",
+    "isJunior": false,
+    "mia_e2": 402
+  }
+]

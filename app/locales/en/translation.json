@@ -1,0 +1,71 @@
+{
+  "navbar": {
+    "title": "Mathematics",
+    "byYear": "By Year",
+    "byTopic": "By Topic",
+    "exerciseGenerator": "Exercise Generator",
+    "settings": {
+      "showMetadata": "Show Metadata",
+      "showPercent": "Show Percent (%)",
+      "showAnswer": "Show Answer"
+    }
+  },
+  "error": {
+    "unexpected": {
+      "title": "Oops!",
+      "details": "An unexpected error occurred."
+    },
+    "404": {
+      "title": "404 Not Found",
+      "details": "The requested page could not be found."
+    },
+    "generic": {
+      "title": "Error",
+      "details": "An error occurred."
+    }
+  },
+  "pages": {
+    "byYear": {
+      "title": "Browse by Year",
+      "selectLabel": "Select Year",
+      "allYearsOption": "All Years",
+      "showingResultsFor": "{{year}}",
+      "noResults": "No questions found for the year {{year}}.",
+      "selectYearPrompt": "Please select a year to view questions."
+    },
+    "byTopic": {
+      "title": "Browse by Topic"
+    },
+    "exerciseGenerator": {
+      "title": "Exercise Generator",
+      "form": {
+        "titleLabel": "Title",
+        "instructionsLabel": "Instructions",
+        "topicsLabel": "Topics",
+        "yearsLabel": "Years",
+        "settingsLabel": "Display Settings",
+        "previewButton": "Preview Questions",
+        "sortByLabel": "Sort Questions By:",
+        "sortByYearQnum": "Year & Q#",
+        "sortByHkPercent": "Difficulty (HK %)"
+      },
+      "previewTitle": "Preview",
+      "resultsTitle": "Selected Questions",
+      "noResults": "No questions found matching your criteria.",
+      "selectCriteriaPrompt": "Please select topics and years to see questions.",
+      "warnings": {
+        "noTopicSelected": "Please select at least one topic."
+      }
+    }
+  },
+  "settings": {
+    "language": {
+      "title": "Language",
+      "english": "English",
+      "chinese": "Chinese"
+    }
+  },
+  "common": {
+    "noResultsFound": "No results found."
+  }
+}

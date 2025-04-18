@@ -1,0 +1,5402 @@
+[
+  {
+    "q_id": 201201,
+    "t_id": [
+      101
+    ],
+    "year": 2012,
+    "q_num": 1,
+    "ans": "C",
+    "hk_percent": 94
+  },
+  {
+    "q_id": 201202,
+    "t_id": [
+      102
+    ],
+    "year": 2012,
+    "q_num": 2,
+    "ans": "D",
+    "hk_percent": 74
+  },
+  {
+    "q_id": 201203,
+    "t_id": [
+      104
+    ],
+    "year": 2012,
+    "q_num": 3,
+    "ans": "C",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201204,
+    "t_id": [
+      208
+    ],
+    "year": 2012,
+    "q_num": 4,
+    "ans": "B",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201205,
+    "t_id": [
+      105
+    ],
+    "year": 2012,
+    "q_num": 5,
+    "ans": "B",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 201206,
+    "t_id": [
+      204
+    ],
+    "year": 2012,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201207,
+    "t_id": [
+      214
+    ],
+    "year": 2012,
+    "q_num": 7,
+    "ans": "C",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201208,
+    "t_id": [
+      106
+    ],
+    "year": 2012,
+    "q_num": 8,
+    "ans": "D",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201209,
+    "t_id": [
+      107
+    ],
+    "year": 2012,
+    "q_num": 9,
+    "ans": "A",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201210,
+    "t_id": [
+      211
+    ],
+    "year": 2012,
+    "q_num": 10,
+    "ans": "D",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201211,
+    "t_id": [
+      108
+    ],
+    "year": 2012,
+    "q_num": 11,
+    "ans": "C",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 201212,
+    "t_id": [
+      109
+    ],
+    "year": 2012,
+    "q_num": 12,
+    "ans": "B",
+    "hk_percent": 74
+  },
+  {
+    "q_id": 201213,
+    "t_id": [
+      110
+    ],
+    "year": 2012,
+    "q_num": 13,
+    "ans": "D",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 201214,
+    "t_id": [
+      110
+    ],
+    "year": 2012,
+    "q_num": 14,
+    "ans": "B",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201215,
+    "t_id": [
+      111
+    ],
+    "year": 2012,
+    "q_num": 15,
+    "ans": "A",
+    "hk_percent": 89
+  },
+  {
+    "q_id": 201216,
+    "t_id": [
+      112
+    ],
+    "year": 2012,
+    "q_num": 16,
+    "ans": "B",
+    "hk_percent": 82
+  },
+  {
+    "q_id": 201217,
+    "t_id": [
+      118
+    ],
+    "year": 2012,
+    "q_num": 17,
+    "ans": "B",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201218,
+    "t_id": [
+      113
+    ],
+    "year": 2012,
+    "q_num": 18,
+    "ans": "A",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 201219,
+    "t_id": [
+      212
+    ],
+    "year": 2012,
+    "q_num": 19,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201220,
+    "t_id": [
+      213
+    ],
+    "year": 2012,
+    "q_num": 20,
+    "ans": "C",
+    "hk_percent": 71
+  },
+  {
+    "q_id": 201221,
+    "t_id": [
+      216
+    ],
+    "year": 2012,
+    "q_num": 21,
+    "ans": "D",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201222,
+    "t_id": [
+      114
+    ],
+    "year": 2012,
+    "q_num": 22,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201223,
+    "t_id": [
+      115
+    ],
+    "year": 2012,
+    "q_num": 23,
+    "ans": "D",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 201224,
+    "t_id": [
+      219
+    ],
+    "year": 2012,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 201225,
+    "t_id": [
+      206
+    ],
+    "year": 2012,
+    "q_num": 25,
+    "ans": "C",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201226,
+    "t_id": [
+      218
+    ],
+    "year": 2012,
+    "q_num": 26,
+    "ans": "A",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201227,
+    "t_id": [
+      116
+    ],
+    "year": 2012,
+    "q_num": 27,
+    "ans": "A",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 201228,
+    "t_id": [
+      221
+    ],
+    "year": 2012,
+    "q_num": 28,
+    "ans": "B",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201229,
+    "t_id": [
+      220
+    ],
+    "year": 2012,
+    "q_num": 29,
+    "ans": "B",
+    "hk_percent": 71
+  },
+  {
+    "q_id": 201230,
+    "t_id": [
+      117
+    ],
+    "year": 2012,
+    "q_num": 30,
+    "ans": "D",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201231,
+    "t_id": [
+      125
+    ],
+    "year": 2012,
+    "q_num": 31,
+    "ans": "B",
+    "hk_percent": 55
+  },
+  {
+    "q_id": 201232,
+    "t_id": [
+      209
+    ],
+    "year": 2012,
+    "q_num": 32,
+    "ans": "C",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201233,
+    "t_id": [
+      120
+    ],
+    "year": 2012,
+    "q_num": 33,
+    "ans": "A",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 201234,
+    "t_id": [
+      226
+    ],
+    "year": 2012,
+    "q_num": 34,
+    "ans": "C",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201235,
+    "t_id": [
+      202
+    ],
+    "year": 2012,
+    "q_num": 35,
+    "ans": "A",
+    "hk_percent": 55
+  },
+  {
+    "q_id": 201236,
+    "t_id": [
+      215
+    ],
+    "year": 2012,
+    "q_num": 36,
+    "ans": "D",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201237,
+    "t_id": [
+      225
+    ],
+    "year": 2012,
+    "q_num": 37,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201238,
+    "t_id": [
+      226
+    ],
+    "year": 2012,
+    "q_num": 38,
+    "ans": "C",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201239,
+    "t_id": [
+      226
+    ],
+    "year": 2012,
+    "q_num": 39,
+    "ans": "D",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201240,
+    "t_id": [
+      217
+    ],
+    "year": 2012,
+    "q_num": 40,
+    "ans": "D",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 201241,
+    "t_id": [
+      213
+    ],
+    "year": 2012,
+    "q_num": 41,
+    "ans": "C",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201242,
+    "t_id": [
+      218
+    ],
+    "year": 2012,
+    "q_num": 42,
+    "ans": "B",
+    "hk_percent": 36
+  },
+  {
+    "q_id": 201243,
+    "t_id": [
+      223
+    ],
+    "year": 2012,
+    "q_num": 43,
+    "ans": "B",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 201244,
+    "t_id": [
+      224
+    ],
+    "year": 2012,
+    "q_num": 44,
+    "ans": "D",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201245,
+    "t_id": [
+      222
+    ],
+    "year": 2012,
+    "q_num": 45,
+    "ans": "A",
+    "hk_percent": 36
+  },
+  {
+    "q_id": 201301,
+    "t_id": [
+      101
+    ],
+    "year": 2013,
+    "q_num": 1,
+    "ans": "B",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201302,
+    "t_id": [
+      103
+    ],
+    "year": 2013,
+    "q_num": 2,
+    "ans": "D",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 201303,
+    "t_id": [
+      102
+    ],
+    "year": 2013,
+    "q_num": 3,
+    "ans": "D",
+    "hk_percent": 85
+  },
+  {
+    "q_id": 201304,
+    "t_id": [
+      110
+    ],
+    "year": 2013,
+    "q_num": 4,
+    "ans": "C",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201305,
+    "t_id": [
+      214
+    ],
+    "year": 2013,
+    "q_num": 5,
+    "ans": "A",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201306,
+    "t_id": [
+      201
+    ],
+    "year": 2013,
+    "q_num": 6,
+    "ans": "C",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 201307,
+    "t_id": [
+      204
+    ],
+    "year": 2013,
+    "q_num": 7,
+    "ans": "B",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201308,
+    "t_id": [
+      107
+    ],
+    "year": 2013,
+    "q_num": 8,
+    "ans": "A",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201309,
+    "t_id": [
+      208
+    ],
+    "year": 2013,
+    "q_num": 9,
+    "ans": "D",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 201310,
+    "t_id": [
+      106
+    ],
+    "year": 2013,
+    "q_num": 10,
+    "ans": "A",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201311,
+    "t_id": [
+      106
+    ],
+    "year": 2013,
+    "q_num": 11,
+    "ans": "D",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201312,
+    "t_id": [
+      107
+    ],
+    "year": 2013,
+    "q_num": 12,
+    "ans": "C",
+    "hk_percent": 31
+  },
+  {
+    "q_id": 201313,
+    "t_id": [
+      211
+    ],
+    "year": 2013,
+    "q_num": 13,
+    "ans": "C",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201314,
+    "t_id": [
+      206
+    ],
+    "year": 2013,
+    "q_num": 14,
+    "ans": "D",
+    "hk_percent": 21
+  },
+  {
+    "q_id": 201315,
+    "t_id": [
+      122
+    ],
+    "year": 2013,
+    "q_num": 15,
+    "ans": "B",
+    "hk_percent": 71
+  },
+  {
+    "q_id": 201316,
+    "t_id": [
+      112
+    ],
+    "year": 2013,
+    "q_num": 16,
+    "ans": "B",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 201317,
+    "t_id": [
+      119
+    ],
+    "year": 2013,
+    "q_num": 17,
+    "ans": "B",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201318,
+    "t_id": [
+      118
+    ],
+    "year": 2013,
+    "q_num": 18,
+    "ans": "C",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201319,
+    "t_id": [
+      213
+    ],
+    "year": 2013,
+    "q_num": 19,
+    "ans": "C",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201320,
+    "t_id": [
+      113
+    ],
+    "year": 2013,
+    "q_num": 20,
+    "ans": "D",
+    "hk_percent": 58
+  },
+  {
+    "q_id": 201321,
+    "t_id": [
+      114
+    ],
+    "year": 2013,
+    "q_num": 21,
+    "ans": "C",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 201322,
+    "t_id": [
+      113
+    ],
+    "year": 2013,
+    "q_num": 22,
+    "ans": "A",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 201323,
+    "t_id": [
+      212
+    ],
+    "year": 2013,
+    "q_num": 23,
+    "ans": "B",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201324,
+    "t_id": [
+      219
+    ],
+    "year": 2013,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 201325,
+    "t_id": [
+      218
+    ],
+    "year": 2013,
+    "q_num": 25,
+    "ans": "D",
+    "hk_percent": 36
+  },
+  {
+    "q_id": 201326,
+    "t_id": [
+      116
+    ],
+    "year": 2013,
+    "q_num": 26,
+    "ans": "A",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 201327,
+    "t_id": [
+      117
+    ],
+    "year": 2013,
+    "q_num": 27,
+    "ans": "B",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 201328,
+    "t_id": [
+      221
+    ],
+    "year": 2013,
+    "q_num": 28,
+    "ans": "A",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201329,
+    "t_id": [
+      221
+    ],
+    "year": 2013,
+    "q_num": 29,
+    "ans": "D",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201330,
+    "t_id": [
+      221
+    ],
+    "year": 2013,
+    "q_num": 30,
+    "ans": "B",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 201331,
+    "t_id": [
+      125
+    ],
+    "year": 2013,
+    "q_num": 31,
+    "ans": "B",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 201332,
+    "t_id": [
+      209
+    ],
+    "year": 2013,
+    "q_num": 32,
+    "ans": "B",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201333,
+    "t_id": [
+      120
+    ],
+    "year": 2013,
+    "q_num": 33,
+    "ans": "A",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 201334,
+    "t_id": [
+      210
+    ],
+    "year": 2013,
+    "q_num": 34,
+    "ans": "D",
+    "hk_percent": 29
+  },
+  {
+    "q_id": 201335,
+    "t_id": [
+      203
+    ],
+    "year": 2013,
+    "q_num": 35,
+    "ans": "D",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 201336,
+    "t_id": [
+      202
+    ],
+    "year": 2013,
+    "q_num": 36,
+    "ans": "A",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 201337,
+    "t_id": [
+      215
+    ],
+    "year": 2013,
+    "q_num": 37,
+    "ans": "C",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 201338,
+    "t_id": [
+      225
+    ],
+    "year": 2013,
+    "q_num": 38,
+    "ans": "C",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201339,
+    "t_id": [
+      226
+    ],
+    "year": 2013,
+    "q_num": 39,
+    "ans": "A",
+    "hk_percent": 29
+  },
+  {
+    "q_id": 201340,
+    "t_id": [
+      217
+    ],
+    "year": 2013,
+    "q_num": 40,
+    "ans": "B",
+    "hk_percent": 21
+  },
+  {
+    "q_id": 201341,
+    "t_id": [
+      213
+    ],
+    "year": 2013,
+    "q_num": 41,
+    "ans": "D",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 201342,
+    "t_id": [
+      218
+    ],
+    "year": 2013,
+    "q_num": 42,
+    "ans": "B",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201343,
+    "t_id": [
+      126
+    ],
+    "year": 2013,
+    "q_num": 43,
+    "ans": "A",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 201344,
+    "t_id": [
+      223
+    ],
+    "year": 2013,
+    "q_num": 44,
+    "ans": "C",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 201345,
+    "t_id": [
+      222
+    ],
+    "year": 2013,
+    "q_num": 45,
+    "ans": "C",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201401,
+    "t_id": [
+      101
+    ],
+    "year": 2014,
+    "q_num": 1,
+    "ans": "B",
+    "hk_percent": 94
+  },
+  {
+    "q_id": 201402,
+    "t_id": [
+      102
+    ],
+    "year": 2014,
+    "q_num": 2,
+    "ans": "A",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 201403,
+    "t_id": [
+      104
+    ],
+    "year": 2014,
+    "q_num": 3,
+    "ans": "B",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201404,
+    "t_id": [
+      227
+    ],
+    "year": 2014,
+    "q_num": 4,
+    "ans": "B",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 201405,
+    "t_id": [
+      204
+    ],
+    "year": 2014,
+    "q_num": 5,
+    "ans": "C",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 201406,
+    "t_id": [
+      214
+    ],
+    "year": 2014,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201407,
+    "t_id": [
+      214
+    ],
+    "year": 2014,
+    "q_num": 7,
+    "ans": "C",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201408,
+    "t_id": [
+      105
+    ],
+    "year": 2014,
+    "q_num": 8,
+    "ans": "A",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201409,
+    "t_id": [
+      106
+    ],
+    "year": 2014,
+    "q_num": 9,
+    "ans": "A",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201410,
+    "t_id": [
+      106
+    ],
+    "year": 2014,
+    "q_num": 10,
+    "ans": "C",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201411,
+    "t_id": [
+      110
+    ],
+    "year": 2014,
+    "q_num": 11,
+    "ans": "A",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201412,
+    "t_id": [
+      107
+    ],
+    "year": 2014,
+    "q_num": 12,
+    "ans": "D",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201413,
+    "t_id": [
+      211
+    ],
+    "year": 2014,
+    "q_num": 13,
+    "ans": "C",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201414,
+    "t_id": [
+      109
+    ],
+    "year": 2014,
+    "q_num": 14,
+    "ans": "D",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 201415,
+    "t_id": [
+      111
+    ],
+    "year": 2014,
+    "q_num": 15,
+    "ans": "C",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 201416,
+    "t_id": [
+      123
+    ],
+    "year": 2014,
+    "q_num": 16,
+    "ans": "C",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 201417,
+    "t_id": [
+      118
+    ],
+    "year": 2014,
+    "q_num": 17,
+    "ans": "D",
+    "hk_percent": 24
+  },
+  {
+    "q_id": 201418,
+    "t_id": [
+      113
+    ],
+    "year": 2014,
+    "q_num": 18,
+    "ans": "A",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 201419,
+    "t_id": [
+      212
+    ],
+    "year": 2014,
+    "q_num": 19,
+    "ans": "A",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 201420,
+    "t_id": [
+      213
+    ],
+    "year": 2014,
+    "q_num": 20,
+    "ans": "B",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 201421,
+    "t_id": [
+      213
+    ],
+    "year": 2014,
+    "q_num": 21,
+    "ans": "A",
+    "hk_percent": 19
+  },
+  {
+    "q_id": 201422,
+    "t_id": [
+      114
+    ],
+    "year": 2014,
+    "q_num": 22,
+    "ans": "C",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 201423,
+    "t_id": [
+      115
+    ],
+    "year": 2014,
+    "q_num": 23,
+    "ans": "B",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201424,
+    "t_id": [
+      219
+    ],
+    "year": 2014,
+    "q_num": 24,
+    "ans": "D",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201425,
+    "t_id": [
+      206
+    ],
+    "year": 2014,
+    "q_num": 25,
+    "ans": "D",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201426,
+    "t_id": [
+      218
+    ],
+    "year": 2014,
+    "q_num": 26,
+    "ans": "A",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201427,
+    "t_id": [
+      116
+    ],
+    "year": 2014,
+    "q_num": 27,
+    "ans": "B",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 201428,
+    "t_id": [
+      117
+    ],
+    "year": 2014,
+    "q_num": 28,
+    "ans": "D",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 201429,
+    "t_id": [
+      221
+    ],
+    "year": 2014,
+    "q_num": 29,
+    "ans": "C",
+    "hk_percent": 82
+  },
+  {
+    "q_id": 201430,
+    "t_id": [
+      220
+    ],
+    "year": 2014,
+    "q_num": 30,
+    "ans": "B",
+    "hk_percent": 31
+  },
+  {
+    "q_id": 201431,
+    "t_id": [
+      125
+    ],
+    "year": 2014,
+    "q_num": 31,
+    "ans": "A",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201432,
+    "t_id": [
+      210
+    ],
+    "year": 2014,
+    "q_num": 32,
+    "ans": "C",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 201433,
+    "t_id": [
+      210
+    ],
+    "year": 2014,
+    "q_num": 33,
+    "ans": "B",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 201434,
+    "t_id": [
+      120
+    ],
+    "year": 2014,
+    "q_num": 34,
+    "ans": "C",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201435,
+    "t_id": [
+      204
+    ],
+    "year": 2014,
+    "q_num": 35,
+    "ans": "D",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 201436,
+    "t_id": [
+      202
+    ],
+    "year": 2014,
+    "q_num": 36,
+    "ans": "A",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201437,
+    "t_id": [
+      225
+    ],
+    "year": 2014,
+    "q_num": 37,
+    "ans": "B",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 201438,
+    "t_id": [
+      226
+    ],
+    "year": 2014,
+    "q_num": 38,
+    "ans": "A",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201439,
+    "t_id": [
+      212
+    ],
+    "year": 2014,
+    "q_num": 39,
+    "ans": "D",
+    "hk_percent": 28
+  },
+  {
+    "q_id": 201440,
+    "t_id": [
+      217
+    ],
+    "year": 2014,
+    "q_num": 40,
+    "ans": "D",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 201441,
+    "t_id": [
+      213
+    ],
+    "year": 2014,
+    "q_num": 41,
+    "ans": "C",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201442,
+    "t_id": [
+      218
+    ],
+    "year": 2014,
+    "q_num": 42,
+    "ans": "C",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201443,
+    "t_id": [
+      223
+    ],
+    "year": 2014,
+    "q_num": 43,
+    "ans": "B",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 201444,
+    "t_id": [
+      220
+    ],
+    "year": 2014,
+    "q_num": 44,
+    "ans": "D",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201445,
+    "t_id": [
+      222
+    ],
+    "year": 2014,
+    "q_num": 45,
+    "ans": "B",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201501,
+    "t_id": [
+      102
+    ],
+    "year": 2015,
+    "q_num": 1,
+    "ans": "D",
+    "hk_percent": 90
+  },
+  {
+    "q_id": 201502,
+    "t_id": [
+      101
+    ],
+    "year": 2015,
+    "q_num": 2,
+    "ans": "D",
+    "hk_percent": 93
+  },
+  {
+    "q_id": 201503,
+    "t_id": [
+      105
+    ],
+    "year": 2015,
+    "q_num": 3,
+    "ans": "A",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201504,
+    "t_id": [
+      110
+    ],
+    "year": 2015,
+    "q_num": 4,
+    "ans": "D",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201505,
+    "t_id": [
+      104
+    ],
+    "year": 2015,
+    "q_num": 5,
+    "ans": "B",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201506,
+    "t_id": [
+      214
+    ],
+    "year": 2015,
+    "q_num": 6,
+    "ans": "A",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201507,
+    "t_id": [
+      203
+    ],
+    "year": 2015,
+    "q_num": 7,
+    "ans": "A",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201508,
+    "t_id": [
+      204
+    ],
+    "year": 2015,
+    "q_num": 8,
+    "ans": "D",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201509,
+    "t_id": [
+      106
+    ],
+    "year": 2015,
+    "q_num": 9,
+    "ans": "B",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201510,
+    "t_id": [
+      106
+    ],
+    "year": 2015,
+    "q_num": 10,
+    "ans": "D",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 201511,
+    "t_id": [
+      107
+    ],
+    "year": 2015,
+    "q_num": 11,
+    "ans": "C",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 201512,
+    "t_id": [
+      211
+    ],
+    "year": 2015,
+    "q_num": 12,
+    "ans": "D",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201513,
+    "t_id": [
+      109
+    ],
+    "year": 2015,
+    "q_num": 13,
+    "ans": "B",
+    "hk_percent": 92
+  },
+  {
+    "q_id": 201514,
+    "t_id": [
+      110
+    ],
+    "year": 2015,
+    "q_num": 14,
+    "ans": "C",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201515,
+    "t_id": [
+      111
+    ],
+    "year": 2015,
+    "q_num": 15,
+    "ans": "C",
+    "hk_percent": 91
+  },
+  {
+    "q_id": 201516,
+    "t_id": [
+      119
+    ],
+    "year": 2015,
+    "q_num": 16,
+    "ans": "B",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 201517,
+    "t_id": [
+      118
+    ],
+    "year": 2015,
+    "q_num": 17,
+    "ans": "D",
+    "hk_percent": 26
+  },
+  {
+    "q_id": 201518,
+    "t_id": [
+      113
+    ],
+    "year": 2015,
+    "q_num": 18,
+    "ans": "A",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201519,
+    "t_id": [
+      212
+    ],
+    "year": 2015,
+    "q_num": 19,
+    "ans": "C",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201520,
+    "t_id": [
+      213
+    ],
+    "year": 2015,
+    "q_num": 20,
+    "ans": "C",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 201521,
+    "t_id": [
+      213
+    ],
+    "year": 2015,
+    "q_num": 21,
+    "ans": "B",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 201522,
+    "t_id": [
+      114
+    ],
+    "year": 2015,
+    "q_num": 22,
+    "ans": "A",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201523,
+    "t_id": [
+      115
+    ],
+    "year": 2015,
+    "q_num": 23,
+    "ans": "C",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201524,
+    "t_id": [
+      219
+    ],
+    "year": 2015,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 201525,
+    "t_id": [
+      206
+    ],
+    "year": 2015,
+    "q_num": 25,
+    "ans": "B",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201526,
+    "t_id": [
+      218
+    ],
+    "year": 2015,
+    "q_num": 26,
+    "ans": "C",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 201527,
+    "t_id": [
+      116
+    ],
+    "year": 2015,
+    "q_num": 27,
+    "ans": "A",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 201528,
+    "t_id": [
+      221
+    ],
+    "year": 2015,
+    "q_num": 28,
+    "ans": "B",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201529,
+    "t_id": [
+      220
+    ],
+    "year": 2015,
+    "q_num": 29,
+    "ans": "A",
+    "hk_percent": 91
+  },
+  {
+    "q_id": 201530,
+    "t_id": [
+      117
+    ],
+    "year": 2015,
+    "q_num": 30,
+    "ans": "B",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201531,
+    "t_id": [
+      124
+    ],
+    "year": 2015,
+    "q_num": 31,
+    "ans": "C",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201532,
+    "t_id": [
+      209
+    ],
+    "year": 2015,
+    "q_num": 32,
+    "ans": "A",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 201533,
+    "t_id": [
+      120
+    ],
+    "year": 2015,
+    "q_num": 33,
+    "ans": "A",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 201534,
+    "t_id": [
+      203
+    ],
+    "year": 2015,
+    "q_num": 34,
+    "ans": "B",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 201535,
+    "t_id": [
+      202
+    ],
+    "year": 2015,
+    "q_num": 35,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201536,
+    "t_id": [
+      215
+    ],
+    "year": 2015,
+    "q_num": 36,
+    "ans": "D",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201537,
+    "t_id": [
+      225
+    ],
+    "year": 2015,
+    "q_num": 37,
+    "ans": "D",
+    "hk_percent": 27
+  },
+  {
+    "q_id": 201538,
+    "t_id": [
+      212
+    ],
+    "year": 2015,
+    "q_num": 38,
+    "ans": "B",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201539,
+    "t_id": [
+      226
+    ],
+    "year": 2015,
+    "q_num": 39,
+    "ans": "D",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201540,
+    "t_id": [
+      213
+    ],
+    "year": 2015,
+    "q_num": 40,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201541,
+    "t_id": [
+      218
+    ],
+    "year": 2015,
+    "q_num": 41,
+    "ans": "B",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201542,
+    "t_id": [
+      126
+    ],
+    "year": 2015,
+    "q_num": 42,
+    "ans": "A",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 201543,
+    "t_id": [
+      223
+    ],
+    "year": 2015,
+    "q_num": 43,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201544,
+    "t_id": [
+      224
+    ],
+    "year": 2015,
+    "q_num": 44,
+    "ans": "D",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 201545,
+    "t_id": [
+      222
+    ],
+    "year": 2015,
+    "q_num": 45,
+    "ans": "B",
+    "hk_percent": 26
+  },
+  {
+    "q_id": 201601,
+    "t_id": [
+      101
+    ],
+    "year": 2016,
+    "q_num": 1,
+    "ans": "A",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201602,
+    "t_id": [
+      103
+    ],
+    "year": 2016,
+    "q_num": 2,
+    "ans": "A",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 201603,
+    "t_id": [
+      102
+    ],
+    "year": 2016,
+    "q_num": 3,
+    "ans": "D",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201604,
+    "t_id": [
+      110
+    ],
+    "year": 2016,
+    "q_num": 4,
+    "ans": "C",
+    "hk_percent": 87
+  },
+  {
+    "q_id": 201605,
+    "t_id": [
+      105
+    ],
+    "year": 2016,
+    "q_num": 5,
+    "ans": "A",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201606,
+    "t_id": [
+      208
+    ],
+    "year": 2016,
+    "q_num": 6,
+    "ans": "B",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 201607,
+    "t_id": [
+      214
+    ],
+    "year": 2016,
+    "q_num": 7,
+    "ans": "A",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 201608,
+    "t_id": [
+      227
+    ],
+    "year": 2016,
+    "q_num": 8,
+    "ans": "C",
+    "hk_percent": 82
+  },
+  {
+    "q_id": 201609,
+    "t_id": [
+      204
+    ],
+    "year": 2016,
+    "q_num": 9,
+    "ans": "D",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 201610,
+    "t_id": [
+      106
+    ],
+    "year": 2016,
+    "q_num": 10,
+    "ans": "C",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201611,
+    "t_id": [
+      107
+    ],
+    "year": 2016,
+    "q_num": 11,
+    "ans": "D",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 201612,
+    "t_id": [
+      211
+    ],
+    "year": 2016,
+    "q_num": 12,
+    "ans": "D",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 201613,
+    "t_id": [
+      108
+    ],
+    "year": 2016,
+    "q_num": 13,
+    "ans": "A",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 201614,
+    "t_id": [
+      109
+    ],
+    "year": 2016,
+    "q_num": 14,
+    "ans": "C",
+    "hk_percent": 92
+  },
+  {
+    "q_id": 201615,
+    "t_id": [
+      121
+    ],
+    "year": 2016,
+    "q_num": 15,
+    "ans": "B",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201616,
+    "t_id": [
+      111
+    ],
+    "year": 2016,
+    "q_num": 16,
+    "ans": "D",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201617,
+    "t_id": [
+      123
+    ],
+    "year": 2016,
+    "q_num": 17,
+    "ans": "A",
+    "hk_percent": 55
+  },
+  {
+    "q_id": 201618,
+    "t_id": [
+      119
+    ],
+    "year": 2016,
+    "q_num": 18,
+    "ans": "C",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 201619,
+    "t_id": [
+      112
+    ],
+    "year": 2016,
+    "q_num": 19,
+    "ans": "A",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201620,
+    "t_id": [
+      118
+    ],
+    "year": 2016,
+    "q_num": 20,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201621,
+    "t_id": [
+      113
+    ],
+    "year": 2016,
+    "q_num": 21,
+    "ans": "B",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201622,
+    "t_id": [
+      213
+    ],
+    "year": 2016,
+    "q_num": 22,
+    "ans": "D",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 201623,
+    "t_id": [
+      122
+    ],
+    "year": 2016,
+    "q_num": 23,
+    "ans": "A",
+    "hk_percent": 82
+  },
+  {
+    "q_id": 201624,
+    "t_id": [
+      114
+    ],
+    "year": 2016,
+    "q_num": 24,
+    "ans": "B",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 201625,
+    "t_id": [
+      206
+    ],
+    "year": 2016,
+    "q_num": 25,
+    "ans": "D",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201626,
+    "t_id": [
+      219
+    ],
+    "year": 2016,
+    "q_num": 26,
+    "ans": "B",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 201627,
+    "t_id": [
+      218
+    ],
+    "year": 2016,
+    "q_num": 27,
+    "ans": "C",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201628,
+    "t_id": [
+      116
+    ],
+    "year": 2016,
+    "q_num": 28,
+    "ans": "C",
+    "hk_percent": 58
+  },
+  {
+    "q_id": 201629,
+    "t_id": [
+      116
+    ],
+    "year": 2016,
+    "q_num": 29,
+    "ans": "B",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201630,
+    "t_id": [
+      117
+    ],
+    "year": 2016,
+    "q_num": 30,
+    "ans": "B",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 201631,
+    "t_id": [
+      125
+    ],
+    "year": 2016,
+    "q_num": 31,
+    "ans": "C",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 201632,
+    "t_id": [
+      209
+    ],
+    "year": 2016,
+    "q_num": 32,
+    "ans": "D",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201633,
+    "t_id": [
+      120
+    ],
+    "year": 2016,
+    "q_num": 33,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201634,
+    "t_id": [
+      202
+    ],
+    "year": 2016,
+    "q_num": 34,
+    "ans": "B",
+    "hk_percent": 38
+  },
+  {
+    "q_id": 201635,
+    "t_id": [
+      215
+    ],
+    "year": 2016,
+    "q_num": 35,
+    "ans": "D",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201636,
+    "t_id": [
+      225
+    ],
+    "year": 2016,
+    "q_num": 36,
+    "ans": "B",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201637,
+    "t_id": [
+      226
+    ],
+    "year": 2016,
+    "q_num": 37,
+    "ans": "A",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 201638,
+    "t_id": [
+      212
+    ],
+    "year": 2016,
+    "q_num": 38,
+    "ans": "B",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201639,
+    "t_id": [
+      217
+    ],
+    "year": 2016,
+    "q_num": 39,
+    "ans": "A",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201640,
+    "t_id": [
+      213
+    ],
+    "year": 2016,
+    "q_num": 40,
+    "ans": "D",
+    "hk_percent": 38
+  },
+  {
+    "q_id": 201641,
+    "t_id": [
+      218
+    ],
+    "year": 2016,
+    "q_num": 41,
+    "ans": "C",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201642,
+    "t_id": [
+      224
+    ],
+    "year": 2016,
+    "q_num": 42,
+    "ans": "A",
+    "hk_percent": 55
+  },
+  {
+    "q_id": 201643,
+    "t_id": [
+      223
+    ],
+    "year": 2016,
+    "q_num": 43,
+    "ans": "D",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201644,
+    "t_id": [
+      220
+    ],
+    "year": 2016,
+    "q_num": 44,
+    "ans": "B",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 201645,
+    "t_id": [
+      222
+    ],
+    "year": 2016,
+    "q_num": 45,
+    "ans": "C",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 201701,
+    "t_id": [
+      102
+    ],
+    "year": 2017,
+    "q_num": 1,
+    "ans": "A",
+    "hk_percent": 89
+  },
+  {
+    "q_id": 201702,
+    "t_id": [
+      101
+    ],
+    "year": 2017,
+    "q_num": 2,
+    "ans": "D",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 201703,
+    "t_id": [
+      103
+    ],
+    "year": 2017,
+    "q_num": 3,
+    "ans": "A",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 201704,
+    "t_id": [
+      110
+    ],
+    "year": 2017,
+    "q_num": 4,
+    "ans": "D",
+    "hk_percent": 90
+  },
+  {
+    "q_id": 201705,
+    "t_id": [
+      214
+    ],
+    "year": 2017,
+    "q_num": 5,
+    "ans": "D",
+    "hk_percent": 87
+  },
+  {
+    "q_id": 201706,
+    "t_id": [
+      205
+    ],
+    "year": 2017,
+    "q_num": 6,
+    "ans": "A",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 201707,
+    "t_id": [
+      208
+    ],
+    "year": 2017,
+    "q_num": 7,
+    "ans": "B",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 201708,
+    "t_id": [
+      104
+    ],
+    "year": 2017,
+    "q_num": 8,
+    "ans": "A",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 201709,
+    "t_id": [
+      204
+    ],
+    "year": 2017,
+    "q_num": 9,
+    "ans": "C",
+    "hk_percent": 44
+  },
+  {
+    "q_id": 201710,
+    "t_id": [
+      106
+    ],
+    "year": 2017,
+    "q_num": 10,
+    "ans": "C",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 201711,
+    "t_id": [
+      107
+    ],
+    "year": 2017,
+    "q_num": 11,
+    "ans": "B",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201712,
+    "t_id": [
+      211
+    ],
+    "year": 2017,
+    "q_num": 12,
+    "ans": "C",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201713,
+    "t_id": [
+      109
+    ],
+    "year": 2017,
+    "q_num": 13,
+    "ans": "B",
+    "hk_percent": 86
+  },
+  {
+    "q_id": 201714,
+    "t_id": [
+      111
+    ],
+    "year": 2017,
+    "q_num": 14,
+    "ans": "B",
+    "hk_percent": 71
+  },
+  {
+    "q_id": 201715,
+    "t_id": [
+      119
+    ],
+    "year": 2017,
+    "q_num": 15,
+    "ans": "C",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201716,
+    "t_id": [
+      118
+    ],
+    "year": 2017,
+    "q_num": 16,
+    "ans": "D",
+    "hk_percent": 32
+  },
+  {
+    "q_id": 201717,
+    "t_id": [
+      123
+    ],
+    "year": 2017,
+    "q_num": 17,
+    "ans": "D",
+    "hk_percent": 36
+  },
+  {
+    "q_id": 201718,
+    "t_id": [
+      123
+    ],
+    "year": 2017,
+    "q_num": 18,
+    "ans": "A",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201719,
+    "t_id": [
+      111
+    ],
+    "year": 2017,
+    "q_num": 19,
+    "ans": "D",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 201720,
+    "t_id": [
+      123
+    ],
+    "year": 2017,
+    "q_num": 20,
+    "ans": "D",
+    "hk_percent": 15
+  },
+  {
+    "q_id": 201721,
+    "t_id": [
+      213
+    ],
+    "year": 2017,
+    "q_num": 21,
+    "ans": "C",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201722,
+    "t_id": [
+      113
+    ],
+    "year": 2017,
+    "q_num": 22,
+    "ans": "D",
+    "hk_percent": 58
+  },
+  {
+    "q_id": 201723,
+    "t_id": [
+      206
+    ],
+    "year": 2017,
+    "q_num": 23,
+    "ans": "A",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 201724,
+    "t_id": [
+      206
+    ],
+    "year": 2017,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201725,
+    "t_id": [
+      115
+    ],
+    "year": 2017,
+    "q_num": 25,
+    "ans": "C",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 201726,
+    "t_id": [
+      218
+    ],
+    "year": 2017,
+    "q_num": 26,
+    "ans": "A",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201727,
+    "t_id": [
+      219
+    ],
+    "year": 2017,
+    "q_num": 27,
+    "ans": "B",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 201728,
+    "t_id": [
+      221
+    ],
+    "year": 2017,
+    "q_num": 28,
+    "ans": "C",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201729,
+    "t_id": [
+      220
+    ],
+    "year": 2017,
+    "q_num": 29,
+    "ans": "B",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 201730,
+    "t_id": [
+      220
+    ],
+    "year": 2017,
+    "q_num": 30,
+    "ans": "B",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201731,
+    "t_id": [
+      226
+    ],
+    "year": 2017,
+    "q_num": 31,
+    "ans": "D",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 201732,
+    "t_id": [
+      120
+    ],
+    "year": 2017,
+    "q_num": 32,
+    "ans": "D",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 201733,
+    "t_id": [
+      207
+    ],
+    "year": 2017,
+    "q_num": 33,
+    "ans": "C",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201734,
+    "t_id": [
+      210
+    ],
+    "year": 2017,
+    "q_num": 34,
+    "ans": "D",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 201735,
+    "t_id": [
+      202
+    ],
+    "year": 2017,
+    "q_num": 35,
+    "ans": "B",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201736,
+    "t_id": [
+      225
+    ],
+    "year": 2017,
+    "q_num": 36,
+    "ans": "C",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 201737,
+    "t_id": [
+      215
+    ],
+    "year": 2017,
+    "q_num": 37,
+    "ans": "C",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201738,
+    "t_id": [
+      216
+    ],
+    "year": 2017,
+    "q_num": 38,
+    "ans": "A",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201739,
+    "t_id": [
+      217
+    ],
+    "year": 2017,
+    "q_num": 39,
+    "ans": "A",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 201740,
+    "t_id": [
+      213
+    ],
+    "year": 2017,
+    "q_num": 40,
+    "ans": "B",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 201741,
+    "t_id": [
+      126
+    ],
+    "year": 2017,
+    "q_num": 41,
+    "ans": "D",
+    "hk_percent": 21
+  },
+  {
+    "q_id": 201742,
+    "t_id": [
+      223
+    ],
+    "year": 2017,
+    "q_num": 42,
+    "ans": "B",
+    "hk_percent": 71
+  },
+  {
+    "q_id": 201743,
+    "t_id": [
+      224
+    ],
+    "year": 2017,
+    "q_num": 43,
+    "ans": "C",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201744,
+    "t_id": [
+      220
+    ],
+    "year": 2017,
+    "q_num": 44,
+    "ans": "B",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 201745,
+    "t_id": [
+      222
+    ],
+    "year": 2017,
+    "q_num": 45,
+    "ans": "A",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 201801,
+    "t_id": [
+      101
+    ],
+    "year": 2018,
+    "q_num": 1,
+    "ans": "B",
+    "hk_percent": 71
+  },
+  {
+    "q_id": 201802,
+    "t_id": [
+      103
+    ],
+    "year": 2018,
+    "q_num": 2,
+    "ans": "D",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201803,
+    "t_id": [
+      102
+    ],
+    "year": 2018,
+    "q_num": 3,
+    "ans": "C",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201804,
+    "t_id": [
+      124
+    ],
+    "year": 2018,
+    "q_num": 4,
+    "ans": "A",
+    "hk_percent": 74
+  },
+  {
+    "q_id": 201805,
+    "t_id": [
+      204
+    ],
+    "year": 2018,
+    "q_num": 5,
+    "ans": "A",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 201806,
+    "t_id": [
+      206
+    ],
+    "year": 2018,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 22
+  },
+  {
+    "q_id": 201807,
+    "t_id": [
+      205
+    ],
+    "year": 2018,
+    "q_num": 7,
+    "ans": "D",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 201808,
+    "t_id": [
+      208
+    ],
+    "year": 2018,
+    "q_num": 8,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201809,
+    "t_id": [
+      106
+    ],
+    "year": 2018,
+    "q_num": 9,
+    "ans": "D",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 201810,
+    "t_id": [
+      107
+    ],
+    "year": 2018,
+    "q_num": 10,
+    "ans": "B",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 201811,
+    "t_id": [
+      211
+    ],
+    "year": 2018,
+    "q_num": 11,
+    "ans": "D",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 201812,
+    "t_id": [
+      109
+    ],
+    "year": 2018,
+    "q_num": 12,
+    "ans": "A",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 201813,
+    "t_id": [
+      214
+    ],
+    "year": 2018,
+    "q_num": 13,
+    "ans": "C",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201814,
+    "t_id": [
+      110
+    ],
+    "year": 2018,
+    "q_num": 14,
+    "ans": "B",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 201815,
+    "t_id": [
+      119
+    ],
+    "year": 2018,
+    "q_num": 15,
+    "ans": "D",
+    "hk_percent": 83
+  },
+  {
+    "q_id": 201816,
+    "t_id": [
+      118
+    ],
+    "year": 2018,
+    "q_num": 16,
+    "ans": "A",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 201817,
+    "t_id": [
+      112
+    ],
+    "year": 2018,
+    "q_num": 17,
+    "ans": "B",
+    "hk_percent": 28
+  },
+  {
+    "q_id": 201818,
+    "t_id": [
+      123
+    ],
+    "year": 2018,
+    "q_num": 18,
+    "ans": "B",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 201819,
+    "t_id": [
+      123
+    ],
+    "year": 2018,
+    "q_num": 19,
+    "ans": "D",
+    "hk_percent": 24
+  },
+  {
+    "q_id": 201820,
+    "t_id": [
+      111
+    ],
+    "year": 2018,
+    "q_num": 20,
+    "ans": "B",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 201821,
+    "t_id": [
+      113
+    ],
+    "year": 2018,
+    "q_num": 21,
+    "ans": "C",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201822,
+    "t_id": [
+      213
+    ],
+    "year": 2018,
+    "q_num": 22,
+    "ans": "B",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 201823,
+    "t_id": [
+      122
+    ],
+    "year": 2018,
+    "q_num": 23,
+    "ans": "B",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201824,
+    "t_id": [
+      115
+    ],
+    "year": 2018,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201825,
+    "t_id": [
+      219
+    ],
+    "year": 2018,
+    "q_num": 25,
+    "ans": "D",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 201826,
+    "t_id": [
+      206
+    ],
+    "year": 2018,
+    "q_num": 26,
+    "ans": "C",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201827,
+    "t_id": [
+      218
+    ],
+    "year": 2018,
+    "q_num": 27,
+    "ans": "C",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201828,
+    "t_id": [
+      116
+    ],
+    "year": 2018,
+    "q_num": 28,
+    "ans": "A",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 201829,
+    "t_id": [
+      117
+    ],
+    "year": 2018,
+    "q_num": 29,
+    "ans": "C",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 201830,
+    "t_id": [
+      220
+    ],
+    "year": 2018,
+    "q_num": 30,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 201831,
+    "t_id": [
+      226
+    ],
+    "year": 2018,
+    "q_num": 31,
+    "ans": "C",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 201832,
+    "t_id": [
+      210
+    ],
+    "year": 2018,
+    "q_num": 32,
+    "ans": "C",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 201833,
+    "t_id": [
+      209
+    ],
+    "year": 2018,
+    "q_num": 33,
+    "ans": "D",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 201834,
+    "t_id": [
+      215
+    ],
+    "year": 2018,
+    "q_num": 34,
+    "ans": "C",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201835,
+    "t_id": [
+      225
+    ],
+    "year": 2018,
+    "q_num": 35,
+    "ans": "B",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 201836,
+    "t_id": [
+      203
+    ],
+    "year": 2018,
+    "q_num": 36,
+    "ans": "A",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201837,
+    "t_id": [
+      202
+    ],
+    "year": 2018,
+    "q_num": 37,
+    "ans": "D",
+    "hk_percent": 44
+  },
+  {
+    "q_id": 201838,
+    "t_id": [
+      212
+    ],
+    "year": 2018,
+    "q_num": 38,
+    "ans": "B",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 201839,
+    "t_id": [
+      213
+    ],
+    "year": 2018,
+    "q_num": 39,
+    "ans": "B",
+    "hk_percent": 28
+  },
+  {
+    "q_id": 201840,
+    "t_id": [
+      126
+    ],
+    "year": 2018,
+    "q_num": 40,
+    "ans": "A",
+    "hk_percent": 20
+  },
+  {
+    "q_id": 201841,
+    "t_id": [
+      217
+    ],
+    "year": 2018,
+    "q_num": 41,
+    "ans": "D",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201842,
+    "t_id": [
+      223
+    ],
+    "year": 2018,
+    "q_num": 42,
+    "ans": "A",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201843,
+    "t_id": [
+      224
+    ],
+    "year": 2018,
+    "q_num": 43,
+    "ans": "C",
+    "hk_percent": 26
+  },
+  {
+    "q_id": 201844,
+    "t_id": [
+      220
+    ],
+    "year": 2018,
+    "q_num": 44,
+    "ans": "B",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 201845,
+    "t_id": [
+      220
+    ],
+    "year": 2018,
+    "q_num": 45,
+    "ans": "A",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201901,
+    "t_id": [
+      102
+    ],
+    "year": 2019,
+    "q_num": 1,
+    "ans": "C",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 201902,
+    "t_id": [
+      101
+    ],
+    "year": 2019,
+    "q_num": 2,
+    "ans": "D",
+    "hk_percent": 88
+  },
+  {
+    "q_id": 201903,
+    "t_id": [
+      105
+    ],
+    "year": 2019,
+    "q_num": 3,
+    "ans": "B",
+    "hk_percent": 90
+  },
+  {
+    "q_id": 201904,
+    "t_id": [
+      104
+    ],
+    "year": 2019,
+    "q_num": 4,
+    "ans": "C",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201905,
+    "t_id": [
+      103
+    ],
+    "year": 2019,
+    "q_num": 5,
+    "ans": "A",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 201906,
+    "t_id": [
+      110
+    ],
+    "year": 2019,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 201907,
+    "t_id": [
+      214
+    ],
+    "year": 2019,
+    "q_num": 7,
+    "ans": "B",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 201908,
+    "t_id": [
+      205
+    ],
+    "year": 2019,
+    "q_num": 8,
+    "ans": "C",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201909,
+    "t_id": [
+      208
+    ],
+    "year": 2019,
+    "q_num": 9,
+    "ans": "D",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201910,
+    "t_id": [
+      204
+    ],
+    "year": 2019,
+    "q_num": 10,
+    "ans": "A",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 201911,
+    "t_id": [
+      106
+    ],
+    "year": 2019,
+    "q_num": 11,
+    "ans": "C",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 201912,
+    "t_id": [
+      108
+    ],
+    "year": 2019,
+    "q_num": 12,
+    "ans": "B",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 201913,
+    "t_id": [
+      211
+    ],
+    "year": 2019,
+    "q_num": 13,
+    "ans": "A",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201914,
+    "t_id": [
+      109
+    ],
+    "year": 2019,
+    "q_num": 14,
+    "ans": "C",
+    "hk_percent": 91
+  },
+  {
+    "q_id": 201915,
+    "t_id": [
+      119
+    ],
+    "year": 2019,
+    "q_num": 15,
+    "ans": "D",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 201916,
+    "t_id": [
+      118
+    ],
+    "year": 2019,
+    "q_num": 16,
+    "ans": "D",
+    "hk_percent": 25
+  },
+  {
+    "q_id": 201917,
+    "t_id": [
+      123
+    ],
+    "year": 2019,
+    "q_num": 17,
+    "ans": "A",
+    "hk_percent": 58
+  },
+  {
+    "q_id": 201918,
+    "t_id": [
+      123
+    ],
+    "year": 2019,
+    "q_num": 18,
+    "ans": "D",
+    "hk_percent": 26
+  },
+  {
+    "q_id": 201919,
+    "t_id": [
+      111
+    ],
+    "year": 2019,
+    "q_num": 19,
+    "ans": "A",
+    "hk_percent": 85
+  },
+  {
+    "q_id": 201920,
+    "t_id": [
+      123
+    ],
+    "year": 2019,
+    "q_num": 20,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 201921,
+    "t_id": [
+      213
+    ],
+    "year": 2019,
+    "q_num": 21,
+    "ans": "B",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201922,
+    "t_id": [
+      113
+    ],
+    "year": 2019,
+    "q_num": 22,
+    "ans": "B",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 201923,
+    "t_id": [
+      206
+    ],
+    "year": 2019,
+    "q_num": 23,
+    "ans": "A",
+    "hk_percent": 32
+  },
+  {
+    "q_id": 201924,
+    "t_id": [
+      206
+    ],
+    "year": 2019,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201925,
+    "t_id": [
+      115
+    ],
+    "year": 2019,
+    "q_num": 25,
+    "ans": "D",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 201926,
+    "t_id": [
+      219
+    ],
+    "year": 2019,
+    "q_num": 26,
+    "ans": "D",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 201927,
+    "t_id": [
+      218
+    ],
+    "year": 2019,
+    "q_num": 27,
+    "ans": "B",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 201928,
+    "t_id": [
+      116
+    ],
+    "year": 2019,
+    "q_num": 28,
+    "ans": "C",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 201929,
+    "t_id": [
+      221
+    ],
+    "year": 2019,
+    "q_num": 29,
+    "ans": "B",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 201930,
+    "t_id": [
+      117
+    ],
+    "year": 2019,
+    "q_num": 30,
+    "ans": "C",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 201931,
+    "t_id": [
+      209
+    ],
+    "year": 2019,
+    "q_num": 31,
+    "ans": "B",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 201932,
+    "t_id": [
+      210
+    ],
+    "year": 2019,
+    "q_num": 32,
+    "ans": "D",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201933,
+    "t_id": [
+      120
+    ],
+    "year": 2019,
+    "q_num": 33,
+    "ans": "A",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 201934,
+    "t_id": [
+      202
+    ],
+    "year": 2019,
+    "q_num": 34,
+    "ans": "D",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 201935,
+    "t_id": [
+      215
+    ],
+    "year": 2019,
+    "q_num": 35,
+    "ans": "C",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 201936,
+    "t_id": [
+      225
+    ],
+    "year": 2019,
+    "q_num": 36,
+    "ans": "C",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 201937,
+    "t_id": [
+      218
+    ],
+    "year": 2019,
+    "q_num": 37,
+    "ans": "A",
+    "hk_percent": 31
+  },
+  {
+    "q_id": 201938,
+    "t_id": [
+      216
+    ],
+    "year": 2019,
+    "q_num": 38,
+    "ans": "A",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 201939,
+    "t_id": [
+      213
+    ],
+    "year": 2019,
+    "q_num": 39,
+    "ans": "B",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 201940,
+    "t_id": [
+      217
+    ],
+    "year": 2019,
+    "q_num": 40,
+    "ans": "C",
+    "hk_percent": 38
+  },
+  {
+    "q_id": 201941,
+    "t_id": [
+      126
+    ],
+    "year": 2019,
+    "q_num": 41,
+    "ans": "B",
+    "hk_percent": 44
+  },
+  {
+    "q_id": 201942,
+    "t_id": [
+      224
+    ],
+    "year": 2019,
+    "q_num": 42,
+    "ans": "C",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 201943,
+    "t_id": [
+      224
+    ],
+    "year": 2019,
+    "q_num": 43,
+    "ans": "D",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 201944,
+    "t_id": [
+      220
+    ],
+    "year": 2019,
+    "q_num": 44,
+    "ans": "B",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 201945,
+    "t_id": [
+      222
+    ],
+    "year": 2019,
+    "q_num": 45,
+    "ans": "A",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 202001,
+    "t_id": [
+      101
+    ],
+    "year": 2020,
+    "q_num": 1,
+    "ans": "C",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 202002,
+    "t_id": [
+      103
+    ],
+    "year": 2020,
+    "q_num": 2,
+    "ans": "C",
+    "hk_percent": 85
+  },
+  {
+    "q_id": 202003,
+    "t_id": [
+      124
+    ],
+    "year": 2020,
+    "q_num": 3,
+    "ans": "A",
+    "hk_percent": 89
+  },
+  {
+    "q_id": 202004,
+    "t_id": [
+      102
+    ],
+    "year": 2020,
+    "q_num": 4,
+    "ans": "A",
+    "hk_percent": 85
+  },
+  {
+    "q_id": 202005,
+    "t_id": [
+      205
+    ],
+    "year": 2020,
+    "q_num": 5,
+    "ans": "B",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 202006,
+    "t_id": [
+      208
+    ],
+    "year": 2020,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 202007,
+    "t_id": [
+      104
+    ],
+    "year": 2020,
+    "q_num": 7,
+    "ans": "C",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 202008,
+    "t_id": [
+      206
+    ],
+    "year": 2020,
+    "q_num": 8,
+    "ans": "A",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202009,
+    "t_id": [
+      106
+    ],
+    "year": 2020,
+    "q_num": 9,
+    "ans": "A",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 202010,
+    "t_id": [
+      107
+    ],
+    "year": 2020,
+    "q_num": 10,
+    "ans": "B",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202011,
+    "t_id": [
+      211
+    ],
+    "year": 2020,
+    "q_num": 11,
+    "ans": "A",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 202012,
+    "t_id": [
+      109
+    ],
+    "year": 2020,
+    "q_num": 12,
+    "ans": "D",
+    "hk_percent": 83
+  },
+  {
+    "q_id": 202013,
+    "t_id": [
+      214
+    ],
+    "year": 2020,
+    "q_num": 13,
+    "ans": "D",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 202014,
+    "t_id": [
+      110
+    ],
+    "year": 2020,
+    "q_num": 14,
+    "ans": "B",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 202015,
+    "t_id": [
+      112
+    ],
+    "year": 2020,
+    "q_num": 15,
+    "ans": "D",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 202016,
+    "t_id": [
+      119
+    ],
+    "year": 2020,
+    "q_num": 16,
+    "ans": "B",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 202017,
+    "t_id": [
+      118
+    ],
+    "year": 2020,
+    "q_num": 17,
+    "ans": "C",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 202018,
+    "t_id": [
+      118
+    ],
+    "year": 2020,
+    "q_num": 18,
+    "ans": "B",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 202019,
+    "t_id": [
+      121
+    ],
+    "year": 2020,
+    "q_num": 19,
+    "ans": "B",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 202020,
+    "t_id": [
+      123
+    ],
+    "year": 2020,
+    "q_num": 20,
+    "ans": "D",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 202021,
+    "t_id": [
+      111
+    ],
+    "year": 2020,
+    "q_num": 21,
+    "ans": "C",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 202022,
+    "t_id": [
+      213
+    ],
+    "year": 2020,
+    "q_num": 22,
+    "ans": "C",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 202023,
+    "t_id": [
+      113
+    ],
+    "year": 2020,
+    "q_num": 23,
+    "ans": "B",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 202024,
+    "t_id": [
+      115
+    ],
+    "year": 2020,
+    "q_num": 24,
+    "ans": "D",
+    "hk_percent": 53
+  },
+  {
+    "q_id": 202025,
+    "t_id": [
+      219
+    ],
+    "year": 2020,
+    "q_num": 25,
+    "ans": "A",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 202026,
+    "t_id": [
+      206
+    ],
+    "year": 2020,
+    "q_num": 26,
+    "ans": "D",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 202027,
+    "t_id": [
+      218
+    ],
+    "year": 2020,
+    "q_num": 27,
+    "ans": "C",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 202028,
+    "t_id": [
+      116
+    ],
+    "year": 2020,
+    "q_num": 28,
+    "ans": "B",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 202029,
+    "t_id": [
+      221
+    ],
+    "year": 2020,
+    "q_num": 29,
+    "ans": "A",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 202030,
+    "t_id": [
+      117
+    ],
+    "year": 2020,
+    "q_num": 30,
+    "ans": "A",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 202031,
+    "t_id": [
+      120
+    ],
+    "year": 2020,
+    "q_num": 31,
+    "ans": "B",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 202032,
+    "t_id": [
+      210
+    ],
+    "year": 2020,
+    "q_num": 32,
+    "ans": "B",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202033,
+    "t_id": [
+      210
+    ],
+    "year": 2020,
+    "q_num": 33,
+    "ans": "D",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202034,
+    "t_id": [
+      207
+    ],
+    "year": 2020,
+    "q_num": 34,
+    "ans": "C",
+    "hk_percent": 48
+  },
+  {
+    "q_id": 202035,
+    "t_id": [
+      225
+    ],
+    "year": 2020,
+    "q_num": 35,
+    "ans": "D",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202036,
+    "t_id": [
+      215
+    ],
+    "year": 2020,
+    "q_num": 36,
+    "ans": "C",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 202037,
+    "t_id": [
+      202
+    ],
+    "year": 2020,
+    "q_num": 37,
+    "ans": "C",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 202038,
+    "t_id": [
+      217
+    ],
+    "year": 2020,
+    "q_num": 38,
+    "ans": "A",
+    "hk_percent": 29
+  },
+  {
+    "q_id": 202039,
+    "t_id": [
+      213
+    ],
+    "year": 2020,
+    "q_num": 39,
+    "ans": "A",
+    "hk_percent": 28
+  },
+  {
+    "q_id": 202040,
+    "t_id": [
+      126
+    ],
+    "year": 2020,
+    "q_num": 40,
+    "ans": "D",
+    "hk_percent": 23
+  },
+  {
+    "q_id": 202041,
+    "t_id": [
+      218
+    ],
+    "year": 2020,
+    "q_num": 41,
+    "ans": "D",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202042,
+    "t_id": [
+      223
+    ],
+    "year": 2020,
+    "q_num": 42,
+    "ans": "A",
+    "hk_percent": 61
+  },
+  {
+    "q_id": 202043,
+    "t_id": [
+      224
+    ],
+    "year": 2020,
+    "q_num": 43,
+    "ans": "B",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 202044,
+    "t_id": [
+      220
+    ],
+    "year": 2020,
+    "q_num": 44,
+    "ans": "A",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 202045,
+    "t_id": [
+      222
+    ],
+    "year": 2020,
+    "q_num": 45,
+    "ans": "C",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 202101,
+    "t_id": [
+      101
+    ],
+    "year": 2021,
+    "q_num": 1,
+    "ans": "B",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 202102,
+    "t_id": [
+      103
+    ],
+    "year": 2021,
+    "q_num": 2,
+    "ans": "C",
+    "hk_percent": 87
+  },
+  {
+    "q_id": 202103,
+    "t_id": [
+      102
+    ],
+    "year": 2021,
+    "q_num": 3,
+    "ans": "D",
+    "hk_percent": 82
+  },
+  {
+    "q_id": 202104,
+    "t_id": [
+      124
+    ],
+    "year": 2021,
+    "q_num": 4,
+    "ans": "B",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 202105,
+    "t_id": [
+      110
+    ],
+    "year": 2021,
+    "q_num": 5,
+    "ans": "D",
+    "hk_percent": 74
+  },
+  {
+    "q_id": 202106,
+    "t_id": [
+      104
+    ],
+    "year": 2021,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 49
+  },
+  {
+    "q_id": 202107,
+    "t_id": [
+      205
+    ],
+    "year": 2021,
+    "q_num": 7,
+    "ans": "A",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 202108,
+    "t_id": [
+      208
+    ],
+    "year": 2021,
+    "q_num": 8,
+    "ans": "B",
+    "hk_percent": 29
+  },
+  {
+    "q_id": 202109,
+    "t_id": [
+      106
+    ],
+    "year": 2021,
+    "q_num": 9,
+    "ans": "A",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 202110,
+    "t_id": [
+      214
+    ],
+    "year": 2021,
+    "q_num": 10,
+    "ans": "C",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 202111,
+    "t_id": [
+      107
+    ],
+    "year": 2021,
+    "q_num": 11,
+    "ans": "C",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 202112,
+    "t_id": [
+      211
+    ],
+    "year": 2021,
+    "q_num": 12,
+    "ans": "B",
+    "hk_percent": 74
+  },
+  {
+    "q_id": 202113,
+    "t_id": [
+      109
+    ],
+    "year": 2021,
+    "q_num": 13,
+    "ans": "C",
+    "hk_percent": 83
+  },
+  {
+    "q_id": 202114,
+    "t_id": [
+      204
+    ],
+    "year": 2021,
+    "q_num": 14,
+    "ans": "A",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 202115,
+    "t_id": [
+      114
+    ],
+    "year": 2021,
+    "q_num": 15,
+    "ans": "C",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 202116,
+    "t_id": [
+      119
+    ],
+    "year": 2021,
+    "q_num": 16,
+    "ans": "A",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 202117,
+    "t_id": [
+      112
+    ],
+    "year": 2021,
+    "q_num": 17,
+    "ans": "B",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 202118,
+    "t_id": [
+      121
+    ],
+    "year": 2021,
+    "q_num": 18,
+    "ans": "B",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 202119,
+    "t_id": [
+      118
+    ],
+    "year": 2021,
+    "q_num": 19,
+    "ans": "D",
+    "hk_percent": 36
+  },
+  {
+    "q_id": 202120,
+    "t_id": [
+      111
+    ],
+    "year": 2021,
+    "q_num": 20,
+    "ans": "C",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 202121,
+    "t_id": [
+      114
+    ],
+    "year": 2021,
+    "q_num": 21,
+    "ans": "D",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202122,
+    "t_id": [
+      213
+    ],
+    "year": 2021,
+    "q_num": 22,
+    "ans": "A",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 202123,
+    "t_id": [
+      115
+    ],
+    "year": 2021,
+    "q_num": 23,
+    "ans": "B",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 202124,
+    "t_id": [
+      113
+    ],
+    "year": 2021,
+    "q_num": 24,
+    "ans": "D",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 202125,
+    "t_id": [
+      219
+    ],
+    "year": 2021,
+    "q_num": 25,
+    "ans": "C",
+    "hk_percent": 36
+  },
+  {
+    "q_id": 202126,
+    "t_id": [
+      206
+    ],
+    "year": 2021,
+    "q_num": 26,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 202127,
+    "t_id": [
+      218
+    ],
+    "year": 2021,
+    "q_num": 27,
+    "ans": "C",
+    "hk_percent": 35
+  },
+  {
+    "q_id": 202128,
+    "t_id": [
+      221
+    ],
+    "year": 2021,
+    "q_num": 28,
+    "ans": "D",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 202129,
+    "t_id": [
+      221
+    ],
+    "year": 2021,
+    "q_num": 29,
+    "ans": "B",
+    "hk_percent": 88
+  },
+  {
+    "q_id": 202130,
+    "t_id": [
+      117
+    ],
+    "year": 2021,
+    "q_num": 30,
+    "ans": "A",
+    "hk_percent": 77
+  },
+  {
+    "q_id": 202131,
+    "t_id": [
+      125
+    ],
+    "year": 2021,
+    "q_num": 31,
+    "ans": "A",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 202132,
+    "t_id": [
+      120
+    ],
+    "year": 2021,
+    "q_num": 32,
+    "ans": "D",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 202133,
+    "t_id": [
+      210
+    ],
+    "year": 2021,
+    "q_num": 33,
+    "ans": "C",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 202134,
+    "t_id": [
+      209
+    ],
+    "year": 2021,
+    "q_num": 34,
+    "ans": "C",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 202135,
+    "t_id": [
+      202
+    ],
+    "year": 2021,
+    "q_num": 35,
+    "ans": "A",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202136,
+    "t_id": [
+      225
+    ],
+    "year": 2021,
+    "q_num": 36,
+    "ans": "A",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 202137,
+    "t_id": [
+      227
+    ],
+    "year": 2021,
+    "q_num": 37,
+    "ans": "B",
+    "hk_percent": 27
+  },
+  {
+    "q_id": 202138,
+    "t_id": [
+      216
+    ],
+    "year": 2021,
+    "q_num": 38,
+    "ans": "B",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 202139,
+    "t_id": [
+      213
+    ],
+    "year": 2021,
+    "q_num": 39,
+    "ans": "D",
+    "hk_percent": 37
+  },
+  {
+    "q_id": 202140,
+    "t_id": [
+      218
+    ],
+    "year": 2021,
+    "q_num": 40,
+    "ans": "A",
+    "hk_percent": 31
+  },
+  {
+    "q_id": 202141,
+    "t_id": [
+      126
+    ],
+    "year": 2021,
+    "q_num": 41,
+    "ans": "C",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202142,
+    "t_id": [
+      223
+    ],
+    "year": 2021,
+    "q_num": 42,
+    "ans": "D",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 202143,
+    "t_id": [
+      224
+    ],
+    "year": 2021,
+    "q_num": 43,
+    "ans": "D",
+    "hk_percent": 44
+  },
+  {
+    "q_id": 202144,
+    "t_id": [
+      220
+    ],
+    "year": 2021,
+    "q_num": 44,
+    "ans": "C",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 202145,
+    "t_id": [
+      222
+    ],
+    "year": 2021,
+    "q_num": 45,
+    "ans": "B",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 202201,
+    "t_id": [
+      102
+    ],
+    "year": 2022,
+    "q_num": 1,
+    "ans": "D",
+    "hk_percent": 77
+  },
+  {
+    "q_id": 202202,
+    "t_id": [
+      101
+    ],
+    "year": 2022,
+    "q_num": 2,
+    "ans": "B",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 202203,
+    "t_id": [
+      104
+    ],
+    "year": 2022,
+    "q_num": 3,
+    "ans": "A",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 202204,
+    "t_id": [
+      201
+    ],
+    "year": 2022,
+    "q_num": 4,
+    "ans": "D",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 202205,
+    "t_id": [
+      103
+    ],
+    "year": 2022,
+    "q_num": 5,
+    "ans": "A",
+    "hk_percent": 80
+  },
+  {
+    "q_id": 202206,
+    "t_id": [
+      110
+    ],
+    "year": 2022,
+    "q_num": 6,
+    "ans": "B",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 202207,
+    "t_id": [
+      214
+    ],
+    "year": 2022,
+    "q_num": 7,
+    "ans": "A",
+    "hk_percent": 85
+  },
+  {
+    "q_id": 202208,
+    "t_id": [
+      205
+    ],
+    "year": 2022,
+    "q_num": 8,
+    "ans": "B",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 202209,
+    "t_id": [
+      208
+    ],
+    "year": 2022,
+    "q_num": 9,
+    "ans": "D",
+    "hk_percent": 55
+  },
+  {
+    "q_id": 202210,
+    "t_id": [
+      204
+    ],
+    "year": 2022,
+    "q_num": 10,
+    "ans": "A",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 202211,
+    "t_id": [
+      106
+    ],
+    "year": 2022,
+    "q_num": 11,
+    "ans": "C",
+    "hk_percent": 76
+  },
+  {
+    "q_id": 202212,
+    "t_id": [
+      107
+    ],
+    "year": 2022,
+    "q_num": 12,
+    "ans": "C",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 202213,
+    "t_id": [
+      211
+    ],
+    "year": 2022,
+    "q_num": 13,
+    "ans": "B",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 202214,
+    "t_id": [
+      109
+    ],
+    "year": 2022,
+    "q_num": 14,
+    "ans": "C",
+    "hk_percent": 86
+  },
+  {
+    "q_id": 202215,
+    "t_id": [
+      119
+    ],
+    "year": 2022,
+    "q_num": 15,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 202216,
+    "t_id": [
+      112
+    ],
+    "year": 2022,
+    "q_num": 16,
+    "ans": "D",
+    "hk_percent": 32
+  },
+  {
+    "q_id": 202217,
+    "t_id": [
+      118
+    ],
+    "year": 2022,
+    "q_num": 17,
+    "ans": "B",
+    "hk_percent": 38
+  },
+  {
+    "q_id": 202218,
+    "t_id": [
+      111
+    ],
+    "year": 2022,
+    "q_num": 18,
+    "ans": "C",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 202219,
+    "t_id": [
+      123
+    ],
+    "year": 2022,
+    "q_num": 19,
+    "ans": "D",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 202220,
+    "t_id": [
+      123
+    ],
+    "year": 2022,
+    "q_num": 20,
+    "ans": "B",
+    "hk_percent": 69
+  },
+  {
+    "q_id": 202221,
+    "t_id": [
+      213
+    ],
+    "year": 2022,
+    "q_num": 21,
+    "ans": "B",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 202222,
+    "t_id": [
+      213
+    ],
+    "year": 2022,
+    "q_num": 22,
+    "ans": "C",
+    "hk_percent": 41
+  },
+  {
+    "q_id": 202223,
+    "t_id": [
+      113
+    ],
+    "year": 2022,
+    "q_num": 23,
+    "ans": "C",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 202224,
+    "t_id": [
+      206
+    ],
+    "year": 2022,
+    "q_num": 24,
+    "ans": "A",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 202225,
+    "t_id": [
+      115
+    ],
+    "year": 2022,
+    "q_num": 25,
+    "ans": "D",
+    "hk_percent": 57
+  },
+  {
+    "q_id": 202226,
+    "t_id": [
+      219
+    ],
+    "year": 2022,
+    "q_num": 26,
+    "ans": "A",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 202227,
+    "t_id": [
+      218
+    ],
+    "year": 2022,
+    "q_num": 27,
+    "ans": "C",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 202228,
+    "t_id": [
+      116
+    ],
+    "year": 2022,
+    "q_num": 28,
+    "ans": "D",
+    "hk_percent": 73
+  },
+  {
+    "q_id": 202229,
+    "t_id": [
+      117
+    ],
+    "year": 2022,
+    "q_num": 29,
+    "ans": "A",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 202230,
+    "t_id": [
+      220
+    ],
+    "year": 2022,
+    "q_num": 30,
+    "ans": "B",
+    "hk_percent": 25
+  },
+  {
+    "q_id": 202231,
+    "t_id": [
+      210
+    ],
+    "year": 2022,
+    "q_num": 31,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 202232,
+    "t_id": [
+      209
+    ],
+    "year": 2022,
+    "q_num": 32,
+    "ans": "C",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 202233,
+    "t_id": [
+      210
+    ],
+    "year": 2022,
+    "q_num": 33,
+    "ans": "D",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202234,
+    "t_id": [
+      120
+    ],
+    "year": 2022,
+    "q_num": 34,
+    "ans": "A",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 202235,
+    "t_id": [
+      202
+    ],
+    "year": 2022,
+    "q_num": 35,
+    "ans": "B",
+    "hk_percent": 38
+  },
+  {
+    "q_id": 202236,
+    "t_id": [
+      215
+    ],
+    "year": 2022,
+    "q_num": 36,
+    "ans": "B",
+    "hk_percent": 46
+  },
+  {
+    "q_id": 202237,
+    "t_id": [
+      225
+    ],
+    "year": 2022,
+    "q_num": 37,
+    "ans": "D",
+    "hk_percent": 44
+  },
+  {
+    "q_id": 202238,
+    "t_id": [
+      213
+    ],
+    "year": 2022,
+    "q_num": 38,
+    "ans": "D",
+    "hk_percent": 47
+  },
+  {
+    "q_id": 202239,
+    "t_id": [
+      212
+    ],
+    "year": 2022,
+    "q_num": 39,
+    "ans": "C",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 202240,
+    "t_id": [
+      217
+    ],
+    "year": 2022,
+    "q_num": 40,
+    "ans": "A",
+    "hk_percent": 29
+  },
+  {
+    "q_id": 202241,
+    "t_id": [
+      126
+    ],
+    "year": 2022,
+    "q_num": 41,
+    "ans": "A",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 202242,
+    "t_id": [
+      223
+    ],
+    "year": 2022,
+    "q_num": 42,
+    "ans": "B",
+    "hk_percent": 68
+  },
+  {
+    "q_id": 202243,
+    "t_id": [
+      224
+    ],
+    "year": 2022,
+    "q_num": 43,
+    "ans": "B",
+    "hk_percent": 30
+  },
+  {
+    "q_id": 202244,
+    "t_id": [
+      220
+    ],
+    "year": 2022,
+    "q_num": 44,
+    "ans": "C",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 202245,
+    "t_id": [
+      222
+    ],
+    "year": 2022,
+    "q_num": 45,
+    "ans": "D",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 202301,
+    "t_id": [
+      103
+    ],
+    "year": 2023,
+    "q_num": 1,
+    "ans": "C",
+    "hk_percent": 78
+  },
+  {
+    "q_id": 202302,
+    "t_id": [
+      124
+    ],
+    "year": 2023,
+    "q_num": 2,
+    "ans": "C",
+    "hk_percent": 79
+  },
+  {
+    "q_id": 202303,
+    "t_id": [
+      101
+    ],
+    "year": 2023,
+    "q_num": 3,
+    "ans": "A",
+    "hk_percent": 72
+  },
+  {
+    "q_id": 202304,
+    "t_id": [
+      102
+    ],
+    "year": 2023,
+    "q_num": 4,
+    "ans": "B",
+    "hk_percent": 87
+  },
+  {
+    "q_id": 202305,
+    "t_id": [
+      104
+    ],
+    "year": 2023,
+    "q_num": 5,
+    "ans": "A",
+    "hk_percent": 70
+  },
+  {
+    "q_id": 202306,
+    "t_id": [
+      214
+    ],
+    "year": 2023,
+    "q_num": 6,
+    "ans": "D",
+    "hk_percent": 77
+  },
+  {
+    "q_id": 202307,
+    "t_id": [
+      110
+    ],
+    "year": 2023,
+    "q_num": 7,
+    "ans": "C",
+    "hk_percent": 82
+  },
+  {
+    "q_id": 202308,
+    "t_id": [
+      205
+    ],
+    "year": 2023,
+    "q_num": 8,
+    "ans": "D",
+    "hk_percent": 74
+  },
+  {
+    "q_id": 202309,
+    "t_id": [
+      208
+    ],
+    "year": 2023,
+    "q_num": 9,
+    "ans": "A",
+    "hk_percent": 43
+  },
+  {
+    "q_id": 202310,
+    "t_id": [
+      204
+    ],
+    "year": 2023,
+    "q_num": 10,
+    "ans": "D",
+    "hk_percent": 67
+  },
+  {
+    "q_id": 202311,
+    "t_id": [
+      106
+    ],
+    "year": 2023,
+    "q_num": 11,
+    "ans": "B",
+    "hk_percent": 81
+  },
+  {
+    "q_id": 202312,
+    "t_id": [
+      107
+    ],
+    "year": 2023,
+    "q_num": 12,
+    "ans": "D",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 202313,
+    "t_id": [
+      211
+    ],
+    "year": 2023,
+    "q_num": 13,
+    "ans": "B",
+    "hk_percent": 66
+  },
+  {
+    "q_id": 202314,
+    "t_id": [
+      109
+    ],
+    "year": 2023,
+    "q_num": 14,
+    "ans": "B",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 202315,
+    "t_id": [
+      119
+    ],
+    "year": 2023,
+    "q_num": 15,
+    "ans": "A",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 202316,
+    "t_id": [
+      112
+    ],
+    "year": 2023,
+    "q_num": 16,
+    "ans": "D",
+    "hk_percent": 27
+  },
+  {
+    "q_id": 202317,
+    "t_id": [
+      118
+    ],
+    "year": 2023,
+    "q_num": 17,
+    "ans": "B",
+    "hk_percent": 44
+  },
+  {
+    "q_id": 202318,
+    "t_id": [
+      121
+    ],
+    "year": 2023,
+    "q_num": 18,
+    "ans": "A",
+    "hk_percent": 59
+  },
+  {
+    "q_id": 202319,
+    "t_id": [
+      123
+    ],
+    "year": 2023,
+    "q_num": 19,
+    "ans": "C",
+    "hk_percent": 54
+  },
+  {
+    "q_id": 202320,
+    "t_id": [
+      123
+    ],
+    "year": 2023,
+    "q_num": 20,
+    "ans": "A",
+    "hk_percent": 52
+  },
+  {
+    "q_id": 202321,
+    "t_id": [
+      123
+    ],
+    "year": 2023,
+    "q_num": 21,
+    "ans": "C",
+    "hk_percent": 34
+  },
+  {
+    "q_id": 202322,
+    "t_id": [
+      213
+    ],
+    "year": 2023,
+    "q_num": 22,
+    "ans": "B",
+    "hk_percent": 42
+  },
+  {
+    "q_id": 202323,
+    "t_id": [
+      113
+    ],
+    "year": 2023,
+    "q_num": 23,
+    "ans": "D",
+    "hk_percent": 38
+  },
+  {
+    "q_id": 202324,
+    "t_id": [
+      115
+    ],
+    "year": 2023,
+    "q_num": 24,
+    "ans": "C",
+    "hk_percent": 58
+  },
+  {
+    "q_id": 202325,
+    "t_id": [
+      206
+    ],
+    "year": 2023,
+    "q_num": 25,
+    "ans": "A",
+    "hk_percent": 56
+  },
+  {
+    "q_id": 202326,
+    "t_id": [
+      219
+    ],
+    "year": 2023,
+    "q_num": 26,
+    "ans": "B",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202327,
+    "t_id": [
+      218
+    ],
+    "year": 2023,
+    "q_num": 27,
+    "ans": "C",
+    "hk_percent": 51
+  },
+  {
+    "q_id": 202328,
+    "t_id": [
+      116
+    ],
+    "year": 2023,
+    "q_num": 28,
+    "ans": "D",
+    "hk_percent": 65
+  },
+  {
+    "q_id": 202329,
+    "t_id": [
+      221
+    ],
+    "year": 2023,
+    "q_num": 29,
+    "ans": "C",
+    "hk_percent": 75
+  },
+  {
+    "q_id": 202330,
+    "t_id": [
+      117
+    ],
+    "year": 2023,
+    "q_num": 30,
+    "ans": "A",
+    "hk_percent": 84
+  },
+  {
+    "q_id": 202331,
+    "t_id": [
+      120
+    ],
+    "year": 2023,
+    "q_num": 31,
+    "ans": "B",
+    "hk_percent": 62
+  },
+  {
+    "q_id": 202332,
+    "t_id": [
+      125
+    ],
+    "year": 2023,
+    "q_num": 32,
+    "ans": "D",
+    "hk_percent": 64
+  },
+  {
+    "q_id": 202333,
+    "t_id": [
+      209
+    ],
+    "year": 2023,
+    "q_num": 33,
+    "ans": "A",
+    "hk_percent": 39
+  },
+  {
+    "q_id": 202334,
+    "t_id": [
+      202
+    ],
+    "year": 2023,
+    "q_num": 34,
+    "ans": "B",
+    "hk_percent": 63
+  },
+  {
+    "q_id": 202335,
+    "t_id": [
+      226
+    ],
+    "year": 2023,
+    "q_num": 35,
+    "ans": "D",
+    "hk_percent": 32
+  },
+  {
+    "q_id": 202336,
+    "t_id": [
+      225
+    ],
+    "year": 2023,
+    "q_num": 36,
+    "ans": "B",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202337,
+    "t_id": [
+      215
+    ],
+    "year": 2023,
+    "q_num": 37,
+    "ans": "D",
+    "hk_percent": 25
+  },
+  {
+    "q_id": 202338,
+    "t_id": [
+      213
+    ],
+    "year": 2023,
+    "q_num": 38,
+    "ans": "C",
+    "hk_percent": 50
+  },
+  {
+    "q_id": 202339,
+    "t_id": [
+      218
+    ],
+    "year": 2023,
+    "q_num": 39,
+    "ans": "A",
+    "hk_percent": 31
+  },
+  {
+    "q_id": 202340,
+    "t_id": [
+      217
+    ],
+    "year": 2023,
+    "q_num": 40,
+    "ans": "A",
+    "hk_percent": 29
+  },
+  {
+    "q_id": 202341,
+    "t_id": [
+      126
+    ],
+    "year": 2023,
+    "q_num": 41,
+    "ans": "C",
+    "hk_percent": 33
+  },
+  {
+    "q_id": 202342,
+    "t_id": [
+      223
+    ],
+    "year": 2023,
+    "q_num": 42,
+    "ans": "B",
+    "hk_percent": 45
+  },
+  {
+    "q_id": 202343,
+    "t_id": [
+      224
+    ],
+    "year": 2023,
+    "q_num": 43,
+    "ans": "C",
+    "hk_percent": 40
+  },
+  {
+    "q_id": 202344,
+    "t_id": [
+      220
+    ],
+    "year": 2023,
+    "q_num": 44,
+    "ans": "D",
+    "hk_percent": 60
+  },
+  {
+    "q_id": 202345,
+    "t_id": [
+      222
+    ],
+    "year": 2023,
+    "q_num": 45,
+    "ans": "A",
+    "hk_percent": 47
+  }
+]
