@@ -1,0 +1,22 @@
+{
+  "navbar": {
+    "title": "數學",
+    "link": "連結",
+    "parent": {
+      "title": "家長",
+      "link1": "連結 1",
+      "link2": "連結 2"
+    }
+  },
+  "welcome": {
+    "title": "歡迎來到 React Router！",
+    "description": "這是一個簡單的例子。"
+  },
+  "pages": {
+    "exerciseGenerator": {
+      "resultsTitle": "已選題目",
+      "noResults": "找不到符合條件的題目。",
+      "selectCriteriaPrompt": "請選擇主題和年份以顯示題目。"
+    }
+  }
+}
