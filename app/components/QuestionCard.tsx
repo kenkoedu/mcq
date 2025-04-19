@@ -27,7 +27,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
         <div className="grow shadow-xl/20 rounded-md">
           {question.hasImage || i18n.language.startsWith('en') ? (
             <img
-              src={`/images/questions/${question.qId}${imageSuffix}.png`} // Use dynamic suffix
+              src={`/mcq/images/questions/${question.qId}${imageSuffix}.png`} // Use dynamic suffix
               alt={`Question ${question.qId}`}
               className="max-w-full h-auto shadow-2xl rounded-md p-2" // Add styling as needed
             />
