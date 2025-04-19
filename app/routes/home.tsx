@@ -4,10 +4,9 @@ import { Link } from "react-router"; // Import Link
 import { FaCalendarAlt, FaTags, FaWrench } from "react-icons/fa"; // Import icons
 
 export function meta({ }: Route.MetaArgs) {
-  // Consider translating meta tags as well if needed
   return [
-    { title: "MCQ App" }, // Example: Update title
-    { name: "description", content: "Mathematics MCQ Practice" }, // Example: Update description
+    { title: "Mathematics MCQ - Home" },
+    { name: "description", content: "Practice mathematics with multiple choice questions" },
   ];
 }
 

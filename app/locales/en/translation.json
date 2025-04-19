@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "title": "Mathematics",
+    "title": "Mathematics MCQ",
     "byYear": "By Year",
     "byTopic": "By Topic",
     "exerciseGenerator": "Exercise Generator",
@@ -22,7 +22,10 @@
     "generic": {
       "title": "Error",
       "details": "An error occurred."
-    }
+    },
+    "fetchChapters": "Failed to fetch chapters. Please try again later.",
+    "saveTextbook": "Failed to save textbook. Please try again.",
+    "deleteTextbook": "Failed to delete textbook. Please try again."
   },
   "pages": {
     "byYear": {
@@ -34,27 +37,88 @@
       "selectYearPrompt": "Please select a year to view questions."
     },
     "byTopic": {
-      "title": "Browse by Topic"
+      "title": "Browse by Topic",
+      "selectLabel": "Select Topic",
+      "noQuestionsForTopic": "No questions found for this topic.",
+      "selectTopicPrompt": "Please select a topic to view questions."
     },
     "exerciseGenerator": {
       "title": "Exercise Generator",
       "form": {
-        "titleLabel": "Title",
-        "instructionsLabel": "Instructions",
+        "titleLabel": "Worksheet Title",
+        "instructionsLabel": "Edit instructions",
         "topicsLabel": "Topics",
+        "chaptersLabel": "Chapters (Aristo)",
+        "levelLabel": "Level",
+        "levelAll": "All",
+        "levelJunior": "Junior",
+        "levelSenior": "Senior",
         "yearsLabel": "Years",
         "settingsLabel": "Display Settings",
         "previewButton": "Preview Questions",
-        "sortByLabel": "Sort Questions By:",
-        "sortByYearQnum": "Year & Q#",
-        "sortByHkPercent": "Difficulty (HK %)"
+        "generateButton": "Generate Worksheet",
+        "sortByLabel": "Sort Questions By",
+        "sortByYearQnum": "Year & Question No.",
+        "sortByHkPercent": "HK Percent (Highest First)",
+        "selectChaptersFirst": "Select chapter(s) first",
+        "selectTopics": "Select topic(s)",
+        "selectChapters": "Select chapter(s)"
       },
       "previewTitle": "Preview",
       "resultsTitle": "Selected Questions",
       "noResults": "No questions found matching your criteria.",
       "selectCriteriaPrompt": "Please select topics and years to see questions.",
       "warnings": {
-        "noTopicSelected": "Please select at least one topic."
+        "noTopicSelected": "Please select at least one topic.",
+        "noTopicsForChapters": "No topics found for the selected chapter(s)."
+      },
+      "settings": {
+        "showMetadata": "Show Metadata",
+        "showPercent": "Show Percent (%)",
+        "showAnswer": "Show Answer"
+      }
+    },
+    "admin": {
+      "title": "Admin Panel",
+      "steps": {
+        "topics": "Manage Topics",
+        "subtopics": "Manage Subtopics",
+        "questions": "Manage Questions"
+      },
+      "backToTopics": "Back to Topics",
+      "backToSubtopics": "Back to Subtopics",
+      "proceedToQuestions": "Proceed to Questions",
+      "manageQuestionsTooltip": "Manage Subtopics & Questions",
+      "unsavedChangesConfirm": "You have unsaved changes. Are you sure you want to leave?",
+      "errors": {
+        "fetchQuestions": "Failed to fetch questions.",
+        "saveAssignments": "Failed to save assignments.",
+        "fetchSubtopics": "Failed to fetch subtopics.",
+        "addSubtopic": "Failed to add subtopic.",
+        "updateSubtopic": "Failed to update subtopic.",
+        "deleteSubtopic": "Failed to delete subtopic."
+      },
+      "assignQuestions": {
+        "title": "Assign Questions to Subtopics",
+        "none": "No questions found for this topic.",
+        "assignTo": "Assign to Subtopics:",
+        "selectPlaceholder": "Select subtopics..."
+      },
+      "subtopicManager": {
+        "title": "Manage Subtopics for:",
+        "placeholder": "Subtopic management UI (List, Add, Edit, Delete) will be implemented here.",
+        "addTitle": "Add New Subtopic",
+        "listTitle": "Existing Subtopics",
+        "titleCLabel": "Title (Chinese)",
+        "titleCPlaceholder": "Enter Chinese title",
+        "titleELabel": "Title (English)",
+        "titleEPlaceholder": "Enter English title",
+        "headerSeq": "Seq",
+        "headerId": "ID",
+        "headerTitleC": "Title (Chinese)",
+        "headerTitleE": "Title (English)",
+        "headerActions": "Actions",
+        "none": "No subtopics found for this topic."
       }
     }
   },
@@ -66,6 +130,19 @@
     }
   },
   "common": {
-    "noResultsFound": "No results found."
+    "noResultsFound": "No results found.",
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "save": "Save",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "confirmDelete": "Are you sure you want to delete this item?",
+    "name": "Name",
+    "class": "Class",
+    "classNo": "Class No.",
+    "date": "Date",
+    "actions": "Actions"
   }
 }

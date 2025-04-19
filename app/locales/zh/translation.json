@@ -1,12 +1,12 @@
 {
   "navbar": {
-    "title": "數學",
+    "title": "數學選擇題",
     "byYear": "按年份",
     "byTopic": "按主題",
     "exerciseGenerator": "製作練習",
     "settings": {
       "showMetadata": "顯示題目資料",
-      "showPercent": "顯示百分比 (%)",
+      "showPercent": "顯示百分比",
       "showAnswer": "顯示答案"
     }
   },
@@ -22,7 +22,10 @@
     "generic": {
       "title": "錯誤",
       "details": "發生錯誤。"
-    }
+    },
+    "fetchChapters": "無法獲取章節。請稍後再試。",
+    "saveTextbook": "無法儲存教科書。請稍後再試。",
+    "deleteTextbook": "無法刪除教科書。請稍後再試。"
   },
   "settings": {
     "language": {
@@ -41,31 +44,105 @@
       "selectYearPrompt": "請選擇年份以查看題目。"
     },
     "byTopic": {
-      "title": "按主題瀏覽"
+      "title": "按主題瀏覽",
+      "selectLabel": "選擇主題",
+      "noQuestionsForTopic": "在此主題下找不到題目。",
+      "selectTopicPrompt": "請選擇主題以查看題目。"
     },
     "exerciseGenerator": {
       "title": "製作練習",
       "form": {
-        "titleLabel": "標題",
-        "instructionsLabel": "加入指示",
-        "topicsLabel": "主題",
+        "titleLabel": "工作紙標題",
+        "instructionsLabel": "編輯指示",
+        "topicsLabel": "課題",
+        "chaptersLabel": "章節 (雅集)",
+        "levelLabel": "年級",
+        "levelAll": "所有",
+        "levelJunior": "初中",
+        "levelSenior": "高中",
         "yearsLabel": "年份",
         "settingsLabel": "顯示設定",
-        "previewButton": "預覽題目",
-        "sortByLabel": "題目排序方式：",
+        "previewButton": "預覽問題",
+        "generateButton": "生成工作紙",
+        "sortByLabel": "排序方式",
         "sortByYearQnum": "年份及題號",
-        "sortByHkPercent": "難度 (香港答對率)"
+        "sortByHkPercent": "香港百分比 (高至低)",
+        "selectChaptersFirst": "請先選擇章節",
+        "selectTopics": "請選擇課題",
+        "selectChapters": "請選擇章節"
       },
       "previewTitle": "預覽",
       "resultsTitle": "已選題目",
       "noResults": "找不到符合條件的題目。",
-      "selectCriteriaPrompt": "請選擇主題和年份以顯示題目。",
+      "selectCriteriaPrompt": "請選擇課題和年份以顯示題目。",
       "warnings": {
-        "noTopicSelected": "請選擇至少一個主題。"
+        "noTopicSelected": "請至少選擇一個課題。",
+        "noTopicsForChapters": "找不到所選章節的相關課題。"
+      },
+      "settings": {
+        "showMetadata": "顯示題目資料",
+        "showPercent": "顯示百分比",
+        "showAnswer": "顯示答案"
+      }
+    },
+    "admin": {
+      "title": "管理面板",
+      "steps": {
+        "topics": "管理課題",
+        "subtopics": "管理子課題",
+        "questions": "管理題目"
+      },
+      "backToTopics": "返回課題列表",
+      "backToSubtopics": "返回子課題列表",
+      "proceedToQuestions": "前往管理題目",
+      "manageQuestionsTooltip": "管理子課題及題目",
+      "unsavedChangesConfirm": "您有未儲存的變更。確定要離開嗎？",
+      "errors": {
+        "fetchQuestions": "讀取題目失敗。",
+        "saveAssignments": "儲存分配失敗。",
+        "fetchSubtopics": "讀取子課題失敗。",
+        "addSubtopic": "新增子課題失敗。",
+        "updateSubtopic": "更新子課題失敗。",
+        "deleteSubtopic": "刪除子課題失敗。"
+      },
+      "assignQuestions": {
+        "title": "將題目分配至子主題",
+        "none": "在此主題下找不到題目。",
+        "assignTo": "分配至子主題：",
+        "selectPlaceholder": "選擇子主題..."
+      },
+      "subtopicManager": {
+        "title": "管理子課題於：",
+        "placeholder": "子課題管理界面（列表、新增、編輯、刪除）將在此實現。",
+        "addTitle": "新增子課題",
+        "listTitle": "現有子課題",
+        "titleCLabel": "標題（中文）",
+        "titleCPlaceholder": "輸入中文標題",
+        "titleELabel": "標題（英文）",
+        "titleEPlaceholder": "輸入英文標題",
+        "headerSeq": "序號",
+        "headerId": "ID",
+        "headerTitleC": "標題（中文）",
+        "headerTitleE": "標題（英文）",
+        "headerActions": "操作",
+        "none": "找不到此課題的子課題。"
       }
     }
   },
   "common": {
-    "noResultsFound": "找不到結果。"
+    "noResultsFound": "找不到結果。",
+    "loading": "載入中...",
+    "saving": "儲存中...",
+    "save": "儲存",
+    "add": "新增",
+    "edit": "編輯",
+    "delete": "刪除",
+    "cancel": "取消",
+    "confirmDelete": "您確定要刪除此項目嗎？",
+    "name": "姓名",
+    "class": "班別",
+    "classNo": "班號",
+    "date": "日期",
+    "actions": "操作"
   }
 }

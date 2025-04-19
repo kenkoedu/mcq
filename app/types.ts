@@ -3,7 +3,16 @@ export interface Topic {
   "tTitleE": string;
   "tTitleC": string;
   "isJunior": boolean;
-  "mia_e2": number | null;
+  "aristo": number;
+}
+
+export interface Subtopic {
+  id?: string; // Firestore document ID (optional)
+  tId: number; // Foreign key to Topic
+  stSeq: number; // Sequence number within the topic
+  stId: number; // Derived ID (tId * 100 + stSeq)
+  stTitleC: string | null; // Allow null for empty title
+  stTitleE: string | null; // Allow null for empty title
 }
 
 export interface Question {
@@ -17,6 +26,22 @@ export interface Question {
   hasImage: boolean;
   qId: number;
   tId: number[];
+  stIds?: number[];
   ans: string;
   hkPercent: number;
+}
+
+export interface Chapter {
+  cNum: number;
+  chTitleC: string; // Corrected field name for Chinese Title
+  chTitleE: string; // Corrected field name for English Title
+}
+
+export interface Textbook {
+  chapters: Chapter[];
+  isJunior: boolean;
+  publisher: string;
+  tbId: string; //The unique identifier for the textbook. Example: "ARISTO_INSIGHT"
+  tbTitleC: string;
+  tbTitleE: string;
 }
