@@ -1,4 +1,4 @@
-import { Outlet } from "react-router";
+import { Outlet, HashRouter } from "react-router"; // Import HashRouter
 
 import "./app.css";
 import "./i18n";
@@ -8,9 +8,12 @@ import { ErrorBoundary as CustomErrorBoundary } from './components/ErrorBoundary
 
 export default function App() {
   return (
-    <Layout>
-      <Outlet />
-    </Layout>
+    // Wrap the Layout with HashRouter
+    <HashRouter>
+      <Layout>
+        <Outlet />
+      </Layout>
+    </HashRouter>
   );
 }
 
