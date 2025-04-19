@@ -37,7 +37,8 @@ jobs:
         # run: npm install
       - name: Build
         # run: npm run build
-        run: bunx --bun vite build
+        # run: bunx --bun vite build <--- This causes an error as no index.html is generated
+        run: bun run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
